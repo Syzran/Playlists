@@ -185,6 +185,9 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1 tvg-id="12-omsk" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",12 канал (Омск)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Омск ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",12 канал (Череповец)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
@@ -224,6 +227,9 @@ https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/varian
 #EXTINF:-1 tvg-id="otv-chelyabinsk" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1346318646246.gif" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ОТВ Челябинск HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",УРАЛ 1 HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
 #EXTINF:-1 tvg-id="otv-eburg" catchup="append" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1424249302577.png" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",ОТВ Екатеринбург
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
@@ -488,6 +494,9 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant
 #EXTINF:-1 tvg-id="nts-irkutsk" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",НТС Иркутск
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Десятка Новокузнецк
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",НТС-Ирбит (Екатеринбург)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
@@ -638,6 +647,9 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1611046610281.png" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",РТК «Забайкалье»
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_RTKZAB/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Тува 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
+https://s93498.cdn.ngenix.net/hls/CH_R01_TUVA24/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="http://fe-dv.svc.iptv.rt.ru/images/broadcastChannel1447120565436.jpg" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региональные",Россия 1 (Камчатка)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_RUS8_OTT/variant.m3u8
@@ -1006,5 +1018,3 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8
 #EXTINF:-1 tvg-id="spas" catchup="append" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1579244379155.png" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Религиозные",Спас
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-
-
