@@ -84,7 +84,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT2/variant.m3u8
 #EXTINF:-1,Eurosport 2 HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT2HD/variant.m3u8
 #EXTINF:-1,Eurosport 4K
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K/variant.m3u8
 #EXTINF:-1,Eurosport Gold
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_G/variant.m3u8
 #EXTINF:-1,Eurosport Gold HD
@@ -172,7 +172,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NHL4HD/variant.m3u8
 #EXTINF:-1,LIVE 9
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NHL5HD/variant.m3u8
 #EXTINF:-1,Love Nature 4K
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K/variant.m3u8
 #EXTINF:-1,M-1 Global
 https://zabava-htlive.cdn.ngenix.net/hls/CH_M1GLOBAL/variant.m3u8
 #EXTINF:-1,MCM TOP
@@ -226,7 +226,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/variant.m3u8
 #EXTINF:-1,RU.TV HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/variant.m3u8
 #EXTINF:-1,Russian Extreme Ultra
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1,Shop&Show
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPANDSHOW/variant.m3u8
 #EXTINF:-1,Shopping live
@@ -278,7 +278,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV5MONDEHD/variant.m3u8
 #EXTINF:-1,UFC ТВ
 https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
 #EXTINF:-1,Ultra HD Cinema
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1,VH1 European
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VH1EUROPEAN/variant.m3u8
 #EXTINF:-1,Viasat Explore HD
