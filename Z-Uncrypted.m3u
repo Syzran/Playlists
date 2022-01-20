@@ -32,21 +32,21 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные",Ростелеком ТВ
 http://s10026.cdn.ngenix.net/tv/hls/rostelecom_hi/index.m3u8
 #EXTINF:-1 logo="https://img15.lostpic.net/2019/12/17/f34e199a42f47efd98c2e640898c34bb.png" tvg-id="love-nature-4k" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" channelId="2035" group-title="Познавательные",Love Nature 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K/variant.m3u8
 #EXTINF:-1 logo="https://img16.lostpic.net/2019/12/17/686f2f43d2eae6117f39683bc9ca81e3.png" tvg-id="love-nature-4k" tvg-logo="http://only4.tv/ch/6305.png" channelId="2035" group-title="Познавательные",Love Nature 4K HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K/bw6000000/variant.m3u8
 #EXTINF:-1 logo="http://img12.lostpic.net/2018/05/12/c7c19d7209410d942dfbbd6aa5ff1b9a.png" tvg-id="nasha-sibir-4k" tvg-logo="https://pbs.twimg.com/profile_images/1118831333004935168/4jB4ns6U.png" channelId="3923" group-title="Познавательные",Наша Сибирь 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1 logo="https://img15.lostpic.net/2020/04/08/ee8a8d9c0e36973087a6f084f8bedddf.png" tvg-id="nasha-sibir-4k" tvg-logo="http://domnet.me/images/picons/tvico_n718.png" channelId="3923" group-title="Познавательные",Наша Сибирь 4K HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw6000000/variant.m3u8
 #EXTINF:-1 logo="https://ic.wampi.ru/2021/04/14/9396d8c941037305042573cd738f5b3f.png" tvg-id="eurosport-4k" tvg-logo="https://ic.wampi.ru/2021/04/14/1b5e824af7194487b0f094d652aa5a84.png" channelId="4024" group-title="Спортивные",Eurosport 4K HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K/bw6000000/variant.m3u8
 #EXTINF:-1 logo="https://ic.wampi.ru/2021/04/14/2d911abb3de59a6062ddae539ef5a3cc.png" tvg-id="eurosport-4k" tvg-logo="https://ic.wampi.ru/2021/04/14/59bdada690f0ac7826aea814547eae73.png" channelId="4024" group-title="Спортивные",Eurosport 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K/variant.m3u8
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="https://img16.lostpic.net/2019/10/28/3d1a38e8f1177b7d6455213f14f36f02.png" channelId="2662" group-title="Спортивные",Russian Extreme UHD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="https://img16.lostpic.net/2019/10/28/3d1a38e8f1177b7d6455213f14f36f02.png" channelId="2662" group-title="Спортивные",Russian Extreme Ultra HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/bw6000000/variant.m3u8
 #EXTINF:-1 logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" tvg-id="2na2" tvg-logo="https://teleon.tv/images/logos/telekanal_2x2_ru.png" channelId="14" group-title="Развлекательные",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-id="doverie" tvg-logo="http://only4.tv/ch/417.png" channelId="395" group-title="Развлекательные",Москва. Доверие
@@ -84,9 +84,9 @@ http://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
 #EXTINF:-1 logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" tvg-id="muztv" tvg-logo="https://tv.nalench.com/uploads/screenshots/muz_tv.jpg" channelId="136" group-title="Музыкальные",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 logo="https://img15.lostpic.net/2019/10/28/e254c6462646a3954f0c90b50dbeb73e.png" tvg-id="ultra-hd-cinema" tvg-logo="http://epg.it999.ru/img/2743.png" channelId="3982" group-title="Кино и сериалы",Ultra HD Cinema
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/bw6000000/variant.m3u8
 #EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Кино и сериалы",Ultra HD Cinema 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EF_A_70_1680000_0_0_0.png" tvg-id="spas" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" channelId="244" group-title="Религиозные",Спас
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EF_A_70_1680000_0_0_0.png" shift="+2" tvg-id="spas-pl2" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" channelId="244" group-title="Религиозные",Спас (+2)
@@ -662,21 +662,21 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTINF:-1 logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" shift="+7" tvg-id="2na2" tvg-logo="http://only4.tv/ch/1826.png" channelId="14" tvg-shift="-7" group-title="Общие",2х2 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 #EXTINF:-1 logo="https://ic.wampi.ru/2021/04/14/2d911abb3de59a6062ddae539ef5a3cc.png" tvg-id="eurosport-4k" tvg-logo="https://ic.wampi.ru/2021/04/14/59bdada690f0ac7826aea814547eae73.png" channelId="4024" group-title="Общие",Eurosport 4K
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K/variant.m3u8
 #EXTINF:-1 logo="https://ic.wampi.ru/2021/04/14/9396d8c941037305042573cd738f5b3f.png" tvg-id="eurosport-4k" tvg-logo="https://ic.wampi.ru/2021/04/14/1b5e824af7194487b0f094d652aa5a84.png" channelId="4024" group-title="Общие",Eurosport 4K HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K/bw6000000/variant.m3u8
 #EXTINF:-1 logo="https://img15.lostpic.net/2019/12/17/f34e199a42f47efd98c2e640898c34bb.png" tvg-id="love-nature-4k" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" channelId="2035" group-title="Общие",Love Nature 4K
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K/variant.m3u8
 #EXTINF:-1 logo="https://img16.lostpic.net/2019/12/17/686f2f43d2eae6117f39683bc9ca81e3.png" tvg-id="love-nature-4k" tvg-logo="http://only4.tv/ch/6305.png" channelId="2035" group-title="Общие",Love Nature 4K HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K/bw6000000/variant.m3u8
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="https://img15.lostpic.net/2019/11/12/680a3842560587f79b296189a2207da1.png" channelId="2662" group-title="Общие",Russian Extreme Ultra
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-logo="https://img16.lostpic.net/2019/10/28/3d1a38e8f1177b7d6455213f14f36f02.png" channelId="2662" group-title="Общие",Russian Extreme Ultra HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/bw6000000/variant.m3u8
 #EXTINF:-1 logo="https://img15.lostpic.net/2019/10/28/e254c6462646a3954f0c90b50dbeb73e.png" tvg-id="ultra-hd-cinema" tvg-logo="http://epg.it999.ru/img/2743.png" channelId="3982" group-title="Общие",Ultra HD Cinema
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 logo="https://img15.lostpic.net/2019/10/28/e254c6462646a3954f0c90b50dbeb73e.png" tvg-id="ultra-hd-cinema" tvg-logo="http://epg.it999.ru/img/2743.png" channelId="3982" group-title="Общие",Ultra HD Cinema HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="Общие",Всё ТВ
 https://s72169.cdn.ngenix.net/hls/CH_VSETVHD_HLS/variant.m3u8
 #EXTINF:-1 logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" tvg-id="domashny" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" channelId="21" group-title="Общие",Домашний
