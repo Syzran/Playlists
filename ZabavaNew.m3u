@@ -647,7 +647,7 @@ https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 #EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ИОТ (Иваново)
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Импульс (ZabavaNew Уренгой) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Импульс (Новый Уренгой) HD
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 #EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Кабардино-Балкария (Нальчик)
 https://rt-sth-nalch-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
@@ -717,7 +717,7 @@ https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Новое время (Радужный)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ZabavaNew век (Тамбов)
+#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Новый век (Тамбов)
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 #EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ОРТ-Планета (Оренбург)
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
@@ -1071,5 +1071,5 @@ https://s91412.cdn.ngenix.net/mdrm/CH_RADIOENERGY/manifest.mpd$OPT:adaptive-use-
 https://s91412.cdn.ngenix.net/mdrm/CH_RADIOROMANTIKA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a4b4543522edafb0f08c6ad02c31daa1}
 #EXTINF:-1 group-title="Радио ZabavaNew" $ExtFilter="ZabavaNew",Юмор FM
 https://s91412.cdn.ngenix.net/mdrm/CH_RADIOYUMORFM/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9767582600bf0cb65c7306b797768564}
-#EXTINF:-1 group-title="Спорт" $ExtFilter="ZabavaNew",Trace Sport Stars HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Trace Sport Stars HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TRACESPORTSTARSHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d185126f28bba00163cd38022c77d6c8}
