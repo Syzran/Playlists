@@ -1,1075 +1,1075 @@
-#EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Звезда
+#EXTM3U $ExtFilter="ZabavaNew" url-tvg="https://iptvx.one/epg/epg.xml.gz" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}" catchup-record-source="?utcstart=${start}&utcend=${end}"
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/zvezda.png" tvg-id="zvezda",Звезда
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Звезда
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/zvezda.png" tvg-id="zvezda",Звезда
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Мир
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/mir.png" tvg-id="mir",Мир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Мир
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/mir.png" tvg-id="mir",Мир
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Мир 24
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/mir24.png" tvg-id="mir-24",Мир 24
 https://s91412.cdn.ngenix.net/mdrm/CH_MIR24/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c40e532544e6f7257a6747934b80b654}
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Мир HD
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/mir.png" tvg-id="mir",Мир HD
 https://s91412.cdn.ngenix.net/mdrm/CH_MIRHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=65f8e99316515cdbb1d30b0a2abd10f6}
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",НТВ
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/ntv-white.png" tvg-id="ntv",НТВ
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",НТВ
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/ntv-white.png" tvg-id="ntv",НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",НТВ HD
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/ntv-white.png" tvg-id="ntv",НТВ HD
 https://s91412.cdn.ngenix.net/mdrm/CH_NTV_HD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=38553b32893b6acde6c83d037990bb10}
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",ОТР
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/otr_ru.png" tvg-id="otr",ОТР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",ОТР
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/otr_ru.png" tvg-id="otr",ОТР
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Первый канал
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/pervyj.png" tvg-id="pervy",Первый канал
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Первый канал
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/pervyj.png" tvg-id="pervy",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Первый канал HD
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/pervyj.png" tvg-id="pervy",Первый канал HD
 https://s91412.cdn.ngenix.net/mdrm/CH_1TVHD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=31854d9262f250fc0c265b5858052d3f}
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Пятый канал
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/5kanal-ru.png" tvg-id="5kanal-ru",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",РЕН ТВ
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://i.imgur.com/FVmFJSu.png" tvg-id="rentv",РЕН ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",РЕН ТВ HD
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://i.imgur.com/FVmFJSu.png" tvg-id="rentv",РЕН ТВ HD
 https://s91412.cdn.ngenix.net/mdrm/CH_RENTVHD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=0f957a538a9889278febfa3223cc0009}
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Россия 1
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/rossia-hd.png" tvg-id="rossia1",Россия 1
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Россия 1
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/rossia-hd.png" tvg-id="rossia1",Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Россия 1 HD
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/rossia-hd.png" tvg-id="rossia1",Россия 1 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C05_RUSSIA1HD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=5cd5920d71a9656193b2ae54479e3a2d}
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",Россия 1 HD
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/rossia-hd.png" tvg-id="rossia1",Россия 1 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIA1HD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=af104de5739d0c9714946e3b238f048d}
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",ТВ Центр
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/tvcentr.png" tvg-id="tvcentr",ТВ Центр
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",ТВ Центр
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/tvcentr.png" tvg-id="tvcentr",ТВ Центр
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",ТВ-3
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/tv3.png" tvg-id="tv3-ru",ТВ-3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Общие ZabavaNew" $ExtFilter="ZabavaNew",ТВ-3 HD
+#EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/tv3.png" tvg-id="tv3-ru",ТВ-3 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TV3HD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=781678d78a8a63c05b3fc0a622767680}
-#EXTINF:-1 group-title="Новостные ZabavaNew" $ExtFilter="ZabavaNew",360 Новости
+#EXTINF:-1 group-title="Новостные ZabavaNew" tvg-logo="https://picon.ml/360-news.png" tvg-id="360-news",360 Новости
 https://s91412.cdn.ngenix.net/mdrm/CH_360NEWSHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=8b24aded7138dbb514b3fb48841c2c6e}
-#EXTINF:-1 group-title="Новостные ZabavaNew" $ExtFilter="ZabavaNew",Russia Today HD
+#EXTINF:-1 group-title="Новостные ZabavaNew" tvg-logo="https://picon.ml/russia-today.png" tvg-id="russia-today",Russia Today HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C04_RTTVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d3b285302a7ef2aef22218c648d1ac6b}
-#EXTINF:-1 group-title="Новостные ZabavaNew" $ExtFilter="ZabavaNew",Известия
+#EXTINF:-1 group-title="Новостные ZabavaNew" tvg-logo="https://picon.ml/izvestia.png" tvg-id="izvestia",Известия
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:-1 group-title="Новостные ZabavaNew" $ExtFilter="ZabavaNew",Известия HD
+#EXTINF:-1 group-title="Новостные ZabavaNew" tvg-logo="https://picon.ml/izvestia.png" tvg-id="izvestia",Известия HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C03_IZVESTIYAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ca9376babf47729da77654440a6d59ef}
-#EXTINF:-1 group-title="Новостные ZabavaNew" $ExtFilter="ZabavaNew",РБК HD
+#EXTINF:-1 group-title="Новостные ZabavaNew" tvg-logo="https://picon.ml/rbk.png" tvg-id="rbk",РБК HD
 https://s91412.cdn.ngenix.net/mdrm/CH_RBKTVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=3f253722ac25aa52425f16aa856725a0}
-#EXTINF:-1 group-title="Новостные ZabavaNew" $ExtFilter="ZabavaNew",Россия 24
+#EXTINF:-1 group-title="Новостные ZabavaNew" tvg-logo="https://picon.ml/rossia24.png" tvg-id="rossia-24",Россия 24
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Новостные ZabavaNew" $ExtFilter="ZabavaNew",Соловьёв Live
+#EXTINF:-1 group-title="Новостные ZabavaNew" tvg-logo="https://i.imgur.com/oVDP1E9.png" tvg-id="solovjinypomiot",Соловьёв Live
 https://s91412.cdn.ngenix.net/mdrm/CH_EURONEWS/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=49906308dfc0e35bc0c86a20aba5a60b}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",365 дней HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/365-dnej.png" tvg-id="365-dnej",365 дней HD
 https://s91412.cdn.ngenix.net/mdrm/CH_365DNEYHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=22f5319a9c7af6fe5f60641ad8b9811f}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Big Planet HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://i.imgur.com/a2jaj4I.png" tvg-id="big-planet",Big Planet HD
 https://s91412.cdn.ngenix.net/mdrm/CH_BIGPLANETHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=582eec31a99e91dbab49e157013b96d0}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",English Club TV HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/englishclub.png" tvg-id="english-club-tv",English Club TV HD
 https://s91412.cdn.ngenix.net/mdrm/CH_ENGLISHCLUBHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1b5b2f40eba99480cccf969654f2dd09}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Galaxy HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/galaxy-tv.png" tvg-id="galaxy-tv",Galaxy HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TAINYGALAKTIKIHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=677bbef78e552fa7564a368b48e6b384}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",History 2 HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/h2.png" tvg-id="h2",History 2 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_H2HD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e16dd71e645d56312a5c47de73dcb112}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",History HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/history-hd.png" tvg-id="history-ru",History HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C05_HDHISTORY/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=04e38770624ec4d782941800e4042d8b}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",National Geographic
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/national-geographic-hd.png" tvg-id="national-geographic",National Geographic
 https://s91412.cdn.ngenix.net/mdrm/CH_NATGEO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ce4dd68ca40a5adbaa8bbbec6af2943b}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",National Geographic HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/national-geographic-hd.png" tvg-id="national-geographic",National Geographic HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C04_NGCHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ed661c08c0a56d8b01ea7106b37c0f6b}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",National Geographic Wild
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/nat-geo-wild-hd.png" tvg-id="nat-geo-wild",National Geographic Wild
 https://s91412.cdn.ngenix.net/mdrm/CH_NATGEOWILD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=15cfe265485195812fa08253b96c67c9}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",National Geographic Wild HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/nat-geo-wild-hd.png" tvg-id="nat-geo-wild",National Geographic Wild HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C03_NATGEOWILDHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d71d2147ae9b5263bf197922e7e780ea}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Ocean-TV
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/ocean-tv.png" tvg-id="ocean-tv",Ocean-TV
 https://s91412.cdn.ngenix.net/mdrm/CH_OCEANTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=cb946e9a41df3b2e18953777e764d6b6}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",RTG HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/rtg-hd.png" tvg-id="rtg-hd",RTG HD
 https://s91412.cdn.ngenix.net/mdrm/CH_RTGHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c3fd8fa541d7bd8e68d18cd2bd852ee6}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",RTД HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/rtd-hd.png" tvg-id="rtd-ru",RTД HD
 https://s91412.cdn.ngenix.net/mdrm/CH_RTDHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=85e33a6a27943fb622727962aa70ee29}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Top Secret
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/sovsek.png" tvg-id="sovsek",Top Secret
 https://s91412.cdn.ngenix.net/mdrm/CH_SOVSEKRETNO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f324c90d46af735f078e9c062b46cddf}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Travel+Adventure HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/travel-adventure.png" tvg-id="travel-adventure",Travel+Adventure HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TRAVELANDADVENTUREHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f13a253ed4483347d069f22bc04610b6}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Travelxp 4K
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://i.imgur.com/18l3o42.png" tvg-id="no_epg",Travelxp 4K
 https://s91412.cdn.ngenix.net/mdrm/CH_TRAVELXP4K/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bf03651eb8be6564900489414b470c94}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Travelxp HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://i.imgur.com/18l3o42.png" tvg-id="no_epg",Travelxp HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TRAVELXPHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=7ddf74bc8861ec1c7710f23744c683d0}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Viasat Explore HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/viasat-explore.png" tvg-id="viasat-explore",Viasat Explore HD
 https://s91412.cdn.ngenix.net/mdrm/CH_VIASATEXPLOREHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=2e425285eca2dbcfbc568dc03ed3d773}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Viasat History HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/viasat-history.png" tvg-id="viasat-history",Viasat History HD
 https://s91412.cdn.ngenix.net/mdrm/CH_VIASATHISTORYHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ab98541c5ccbe1e7d37c8e7ea1227cad}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Viasat Nature HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/viasat-nature.png" tvg-id="viasat-nature",Viasat Nature HD
 https://s91412.cdn.ngenix.net/mdrm/CH_VIASATNATUREHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ea293e0655164e8cfcbe69ec050ddaf5}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Viasat Nature/History HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/viasat-nature-history-hd.png" tvg-id="viasat-nature-history-hd",Viasat Nature/History HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C03_VIASATNATUREHISTORYHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=09462d196309c0038a0b8a75c3855bc8}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",ZooПарк
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/zoopark.png" tvg-id="zoopark",ZooПарк
 https://s91412.cdn.ngenix.net/mdrm/CH_ZOOPARK/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=210f25659af5537fb64db7ea09954088}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Большая Азия HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/bolshaya-azia.png" tvg-id="bolshaya-azia",Большая Азия HD
 https://s91412.cdn.ngenix.net/mdrm/CH_BIGASIAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d91849a8d139977cc09bbf4360ef41ad}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Диалоги о рыбалке HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/dialogi-o-rybalke.png" tvg-id="dialogi-o-rybalke",Диалоги о рыбалке HD
 https://s91412.cdn.ngenix.net/mdrm/CH_DIALORYBHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4409d5a7a44c678e35d7556ac61c19b2}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Дикая охота HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/dikaya-oxota-hd.png" tvg-id="dikaya-oxota-hd",Дикая охота HD
 https://s91412.cdn.ngenix.net/mdrm/CH_DIKAYAOHOTAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=36ee6e060f64c65e4398b014963762e1}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Дикая рыбалка HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/dikaya-rybalka-hd.png" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
 https://s91412.cdn.ngenix.net/mdrm/CH_DIKAYARYBALKAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4f74065f2e6fccd70894d796988d1e68}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Доктор
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/doktor.png" tvg-id="doktor",Доктор
 https://s91412.cdn.ngenix.net/mdrm/CH_24DOC/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=02ec7ed9423ca6505a560356d9a61753}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Живая планета
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/zhivaya-planeta.png" tvg-id="zhivaya-planeta",Живая планета
 https://s91412.cdn.ngenix.net/mdrm/CH_JIVAYAPLANETA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=938913a3a45b6cb93003093ef896f015}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Загородная жизнь HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/zagorodnaya-zhizn.png" tvg-id="zagorodnaya-zhizn",Загородная жизнь HD
 https://s91412.cdn.ngenix.net/mdrm/CH_ZAGORODNAYAZHIZNHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=970e3ea211a2c4f474f311597f50679e}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",История
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/istoria.png" tvg-id="istoria",История
 https://s91412.cdn.ngenix.net/mdrm/CH_ISTORIYA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=fd83dd7c9fa7881d887fccaae9fb62a6}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Моя Планета
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/moya-planeta.png" tvg-id="moya-planeta",Моя Планета
 https://s91412.cdn.ngenix.net/mdrm/CH_MYPLANET/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1a0c7e67c7bd4a5995e0d71c46cae6bf}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Моя Планета HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/moya-planeta.png" tvg-id="moya-planeta",Моя Планета HD
 https://s91412.cdn.ngenix.net/mdrm/CH_IQHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a88e53001a58c435d83dd6efba1b5274}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Наука 2.0
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/nauka-20.png" tvg-id="nauka-20",Наука 2.0
 https://s91412.cdn.ngenix.net/mdrm/CH_NAUKA20/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bd3de517d4e92df7bb9fd7e3efd509c0}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Наша Сибирь 4K
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/nasha-sibir.png" tvg-id="nasha-sibir",Наша Сибирь 4K
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Первый Российский Национальный Канал HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://i.imgur.com/sDsP1xG.png" tvg-id="no_epg",Первый Российский Национальный Канал HD
 https://s91412.cdn.ngenix.net/mdrm/CH_PERVIJNATSIONALNIYHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ba6c40e554a6702d017cf9c89455de05}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Поехали! HD
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/poexali.png" tvg-id="poexali",Поехали! HD
 https://s91412.cdn.ngenix.net/mdrm/CH_POEHALIHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=be379dc8e49f8d3ce9e233f5d0b4bba7}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Просвещение
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/prosveschenie.png" tvg-id="prosveschenie",Просвещение
 https://s91412.cdn.ngenix.net/mdrm/CH_PROSVESCHENIE/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=179696601f5930cff3e3b429a8bfbea7}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Ратник
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://i.imgur.com/jTLF5qz.png" tvg-id="ratnik",Ратник
 https://s91412.cdn.ngenix.net/mdrm/CH_RATNIKHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a8b09840007c7489813121d1aebe2143}
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Россия К
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/rossia-k.png" tvg-id="kultura",Россия К
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Познавательные ZabavaNew" $ExtFilter="ZabavaNew",Техно 24
+#EXTINF:-1 group-title="Познавательные ZabavaNew" tvg-logo="https://picon.ml/texno-24.png" tvg-id="texno-24",Техно 24
 https://s91412.cdn.ngenix.net/mdrm/CH_24TEHNO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d1e3c577a3e5596b14381e326cc39240}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",#КтоКуда
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/mir-uvlecheniy.png" tvg-id="mir-uvlecheniy",#КтоКуда
 https://s91412.cdn.ngenix.net/mdrm/CH_KTOKUDA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=095b4efb5f7577b693eaeaf37dc0cdfa}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",2x2
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/2x2.png" tvg-id="2na2",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",FoodTime HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://i.imgur.com/E62uhhv.png" tvg-id="eda-hd",FoodTime HD
 https://s91412.cdn.ngenix.net/mdrm/CH_EDAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=00115cd34ba9192cacb3a9d345a59d9b}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Gags Network HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/gags-network.png" tvg-id="gags-network",Gags Network HD
 https://s91412.cdn.ngenix.net/mdrm/CH_GAGSNETWORKHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=171e7d71da6f6c79b204f132c5ff4fb7}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Museum TV HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/museum-hd.png" tvg-id="museum-hd",Museum TV HD
 https://s91412.cdn.ngenix.net/mdrm/CH_MUSEUMHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=0debe7ffa623bb899ceb668788b70434}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Women’s Magazine HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://i.imgur.com/2z5eg0R.png" tvg-id="no_epg",Women’s Magazine HD
 https://s91412.cdn.ngenix.net/mdrm/CH_WOMENSMAGAZINEHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=eab094acab7f2c64acb19e9ee647d75d}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",World Fashion Channel HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/world-fashion-channel.png" tvg-id="world-fashion-channel",World Fashion Channel HD
 https://s91412.cdn.ngenix.net/mdrm/CH_WFCHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=6f792b625400cd37d6d3d0272378f90b}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Авто Плюс
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/avto-plus.png" tvg-id="avto-plus",Авто Плюс
 https://s91412.cdn.ngenix.net/mdrm/CH_AUTOPLUS/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=2d11785af0603851855280639110dac4}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Авто24 HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/avto24.png" tvg-id="avto24",Авто24 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_AVTO24HD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=44f6c651cd1bcfb6857bfdaaf78f81c5}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Анекдот ТВ
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/anekdottv.png" tvg-id="anekdottv",Анекдот ТВ
 https://s91412.cdn.ngenix.net/mdrm/CH_ANEKDOTTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=763acafb0572f3fa8e027c84d82a306c}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Бобёр
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/bober.png" tvg-id="bobior",Бобёр
 https://s91412.cdn.ngenix.net/mdrm/CH_BOBER/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bc9f01eafaefc2078e005875bd30fa67}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Время
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/vremia.png" tvg-id="vremia",Время
 https://s91412.cdn.ngenix.net/mdrm/CH_VREMYADIB/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=45af2ee49887254d09d9d25b4d11012b}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Глазами туриста HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/glazami-turista.png" tvg-id="glazami-turista",Глазами туриста HD
 https://s91412.cdn.ngenix.net/mdrm/CH_GLAZAMITURISTAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=848bcc4962559bffa3624afdd33ca4a6}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Дикий
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/dikiy.png" tvg-id="dikiy",Дикий
 https://s91412.cdn.ngenix.net/mdrm/CH_DIKIY/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c5b68610cb05025764ed3adddad5c40d}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Домашний
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/domashny.png" tvg-id="domashny",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Домашний HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/domashny.png" tvg-id="domashny",Домашний HD
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIYHD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=412c70395d12164408b2c78ae4dd4001}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Драйв
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/drive.png" tvg-id="drive",Драйв
 https://s91412.cdn.ngenix.net/mdrm/CH_DRIVE/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=92b44eac349fc8bb13bd6db17e6c44fc}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Еда
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/eda.png" tvg-id="eda",Еда
 https://s91412.cdn.ngenix.net/mdrm/CH_EDA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=fb4fa56dc3884507735c78bfb540b801}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Жар Птица
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/zhar-ptica.png" tvg-id="zhar-ptica",Жар Птица
 https://s91412.cdn.ngenix.net/mdrm/CH_JARPTIZA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=8a0ce1d00e5857a5b35379ae5abf90e1}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Живи! HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/zhivi.png" tvg-id="zhivi",Живи! HD
 https://s91412.cdn.ngenix.net/mdrm/CH_ZHIVIHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ef579c42378f6b1a84d9ca343265aaf6}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Зал Суда HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://i.imgur.com/aW0VK5l.png" tvg-id="zal-suda",Зал Суда HD
 https://s91412.cdn.ngenix.net/mdrm/CH_ZALSUDAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=3ef197556966fcc08c1c4225c7e63694}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Калейдоскоп ТВ
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/kaleydoskop.png" tvg-id="kaleydoskop-tv",Калейдоскоп ТВ
 https://s91412.cdn.ngenix.net/mdrm/CH_KALEJDOSKOPTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=363bb3c8a61a2fb39fd424f9ab7be354}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Ключ
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/kluch.png" tvg-id="kluch",Ключ
 https://s91412.cdn.ngenix.net/mdrm/CH_KEY/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=5300366050cbd1e371d743eb06e1b9ac}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Кухня ТВ
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/kuhnia.png" tvg-id="kuxnia-tv",Кухня ТВ
 https://s91412.cdn.ngenix.net/mdrm/CH_KUHNYA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=fce85eb233c11e9f8cf7882672104ead}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Мужской
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/muzhskoj.png" tvg-id="muzhskoy",Мужской
 https://s91412.cdn.ngenix.net/mdrm/CH_MUZHSKOY/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9f07d526d1ece850563a68ceb36f3eac}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Оружие
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/oruzhie.png" tvg-id="oruzhie",Оружие
 https://s91412.cdn.ngenix.net/mdrm/CH_WEAPON/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=88f13980dbfb625010252754d2160fa6}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Охота и рыбалка
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/oxota-i-rybalka.png" tvg-id="oxota-i-rybalka",Охота и рыбалка
 https://s91412.cdn.ngenix.net/mdrm/CH_OHOTAIRYBALKS/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=74dccea6b89bbe0ec8358a5adc988254}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Пятница! HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/pyatnica.png" tvg-id="piatnica",Пятница! HD
 https://s91412.cdn.ngenix.net/mdrm/CH_PYATNIZZAHD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=86cc8f7e1a741ec5aec33700d3b30c65}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Пятница! HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/pyatnica.png" tvg-id="piatnica",Пятница! HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",СТС
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/sts.png" tvg-id="sts",СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",СТС HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/sts.png" tvg-id="sts",СТС HD
 https://s91412.cdn.ngenix.net/mdrm/CH_STSHD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=10b44dcd4d03828bc07dd31dac76bfa8}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",СТС Love
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/sts-love.png" tvg-id="sts-love",СТС Love
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Сарафан
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/sarafan.png" tvg-id="sarafan",Сарафан
 https://s91412.cdn.ngenix.net/mdrm/CH_C01_SARAFAN/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1e3b047c243ecbbae668d0d0c873aa32}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",ТЕО-ТВ HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/teotv.png" tvg-id="teotv",ТЕО-ТВ HD
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TEOTV/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",ТНТ
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/tnt.png" tvg-id="tnt",ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",ТНТ HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/tnt.png" tvg-id="tnt",ТНТ HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TNTHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=46252294035581699f1706a9164e51dd}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",ТНТ HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/tnt.png" tvg-id="tnt",ТНТ HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TNTHD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9ad98472710920da9ef536a64e9d0df6}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",ТНТ4
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/tnt4.png" tvg-id="tnt4",ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",ТНТ4 HD
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/tnt4.png" tvg-id="tnt4",ТНТ4 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TNT4HD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=2fd2a52fb7bf35448345417affdf5ca3}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Телекафе
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/telekafe.png" tvg-id="telekafe",Телекафе
 https://s91412.cdn.ngenix.net/mdrm/CH_TELEKAFE/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a2b2b822ff6313c71af9a6bc97c8774c}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Тномер
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/tnomer.png" tvg-id="tnomer",Тномер
 http://s91412.cdn.ngenix.net/mdrm/CH_TNOMER/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=35d78b8ded9d83961458a86d3faf471f}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Усадьба
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/usadba.png" tvg-id="usadba",Усадьба
 https://s91412.cdn.ngenix.net/mdrm/CH_USADBA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=96f40244dcacef0cb72243939e536e6a}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Центральное телевидение
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/centralnoye-tv.png" tvg-id="centralnoye-tv",Центральное телевидение
 https://s91412.cdn.ngenix.net/mdrm/CH_CENTRALTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=5ed2a9b86a23514c054d5b7e8d037b4b}
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Че!
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/che.png" tvg-id="che",Че!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные ZabavaNew" $ExtFilter="ZabavaNew",Ю
+#EXTINF:-1 group-title="Развлекательные ZabavaNew" tvg-logo="https://picon.ml/yu.png" tvg-id="yu",Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Amedia 1 HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/amedia1.png" tvg-id="amedia1",Amedia 1 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C01_HDAMEDIA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ed65518a610426e3672240b818990a45}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Amedia 2 HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/amedia2.png" tvg-id="amedia2",Amedia 2 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_A2PROLYBOV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=67124a6bff2f5047e35b2a0a458cb840}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Amedia Hit HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/amedia-hit.png" tvg-id="amedia-hit",Amedia Hit HD
 https://s91412.cdn.ngenix.net/mdrm/CH_AMEDIAHITHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=361c516ccd7f6e1fe0f048e308cf54f4}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Amedia Premium HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/amedia-premium.png" tvg-id="amedia-premium",Amedia Premium HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C05_HDAMEDIAPREMIUM/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=6bbfbe73e2bd8183b33a34440451ca6d}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Black
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/sony-turbo.png" tvg-id="sony-turbo",Black
 https://s91412.cdn.ngenix.net/mdrm/CH_SONYTURBO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=625b535928d5d6c798d6a644a0fd56f2}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Bollywood HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/bollywood-hd.png" tvg-id="bollywood-hd",Bollywood HD
 https://s91412.cdn.ngenix.net/mdrm/CH_BOLLYWOODHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e3cc469711452bd950ea5ad14f32251e}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Bolt HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/bolt.png" tvg-id="bolt-ru",Bolt HD
 https://s91412.cdn.ngenix.net/mdrm/CH_BOLTHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a4a81ec844ed05fc3874586fbd66b37b}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Cinema
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/cinema.png" tvg-id="cinema-ru",Cinema
 https://s91412.cdn.ngenix.net/mdrm/CH_PARKRAZVLECHENIJ/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f85de7839db638ac256c497c5b6021cc}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",FAN HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://i.imgur.com/HrLa7pw.png" tvg-id="fanhd",FAN HD
 https://s91412.cdn.ngenix.net/mdrm/CH_FANHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=da298fc4de7961285307dcc7160dd3e2}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Fox HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/fox.png" tvg-id="fox",Fox HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C02_FOXHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=41d8fecaa83401f35e58471712c7de75}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Fox Life HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/foxlife.png" tvg-id="foxlife",Fox Life HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C04_FOXLIFEHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d49e076d82551e8c7aa535e93a54950e}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Hollywood HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/hollywood-hd.png" tvg-id="hollywood",Hollywood HD
 https://s91412.cdn.ngenix.net/mdrm/CH_HOLLYWOODHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=576690941dcfc81d7f65dbba8dd9802f}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",KinoLiving HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://i.imgur.com/AoRzn2V.png" tvg-id="no_epg_cinema",KinoLiving HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KINOLIVINGHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=82a74ad038e89e2c9c6e311b936a5b98}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Plan B HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/plan-b.png" tvg-id="plan-b",Plan B HD
 https://s91412.cdn.ngenix.net/mdrm/CH_PLANBHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=cf7f1b49b8af92baa576d0d402eccf54}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Red
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/sony.png" tvg-id="sony-tv",Red
 https://s91412.cdn.ngenix.net/mdrm/CH_SET/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=5c0e5b2a31b5f242504fe8836a92956c}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Red HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/sony.png" tvg-id="sony-tv",Red HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C02_SETHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=0c02a94f92106d4caaa384e28967c8f0}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Sci-Fi
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/sony-scifi.png" tvg-id="sony-scifi",Sci-Fi
 https://s91412.cdn.ngenix.net/mdrm/CH_SONYSCIFI/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a71236612eac59695afcc7434261a915}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Shot TV HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/shot-tv.png" tvg-id="shot-tv",Shot TV HD
 https://s91412.cdn.ngenix.net/mdrm/CH_SHOTTVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e5123873322078c8dae4b3075b0e3594}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Star Cinema HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/star-cinema.png" tvg-id="star-cinema",Star Cinema HD
 https://s91412.cdn.ngenix.net/mdrm/CH_STARCINEMAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=663e59ea9c05037074c85ab88bb9c29c}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Star Family HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/star-family.png" tvg-id="star-family",Star Family HD
 https://s91412.cdn.ngenix.net/mdrm/CH_STARFAMILYHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a28f140966485efc93b45e242f3006bb}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Start Air HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/start-air.png" tvg-id="start-air",Start Air HD
 https://s91412.cdn.ngenix.net/mdrm/CH_STARTAIRHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=169a757608186dbacc931cf0db4c09b2}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Start World HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://i.imgur.com/1RzHOLe.png" tvg-id="no_epg",Start World HD
 https://s91412.cdn.ngenix.net/mdrm/CH_STARTWORLDHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=15b223c9196ba58a4e72d0c51e7eaff2}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",TV 1000 Action HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/tv1000action.png" tvg-id="tv1000-action",TV 1000 Action HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=0fa0183782ee0650c8d23838d802dff2}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",TV 1000 HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/tv1000.png" tvg-id="tv1000",TV 1000 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TV1000HD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=93d0065ac81f408bcb86b1e5bf978b80}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",TV 1000 Русское кино HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/tv1000ruskino.png" tvg-id="tv1000-russkoe-kino",TV 1000 Русское кино HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TV1000RUSSKOEKINOHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a9eb0d6da9c6c4480e55420bedec236e}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",TV XXI
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/xxi.png" tvg-id="tvxxi",TV XXI
 https://s91412.cdn.ngenix.net/mdrm/CH_TVXXI/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=45d0a959fc259b33a8214d2888c80c33}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Ultra Cinema 4K
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/ultra-hd-cinema.png" tvg-id="ultra-hd-cinema",Ultra Cinema 4K
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",ViP Comedy HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/vip-comedy.png" tvg-id="vip-comedy",ViP Comedy HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C03_TV1000COMEDYHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=aa4a72a360133b5a36cfef63c7953425}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",ViP Megahit HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/vip-megahit.png" tvg-id="vip-megahit",ViP Megahit HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C03_TV1000MEGAHITHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=6ec1903f2c095b0d35968a3723461817}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",ViP Premiere HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/vip-premiere.png" tvg-id="vip-premiere",ViP Premiere HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C05_TV1000PREMIUMHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=7377700f0c671129ef11a8251b220d2b}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",ViP Serial HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/vip-serial.png" tvg-id="vip-serial",ViP Serial HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C06_VIASATGOLFHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=84cd96fc268d1d3b6b433ac744a5c450}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Zee TV HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://i.imgur.com/hZjRfGi.png" tvg-id="zee-tv",Индия HD
 https://s91412.cdn.ngenix.net/mdrm/CH_ZEETVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=7ad46859e10c136de3cf467c3e5f7eea}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Всё ТВ HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/vsio-tv.png" tvg-id="no_epg",Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Всё ТВ HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/vsio-tv.png" tvg-id="no_epg",Всё ТВ HD
 https://s72169.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Дом кино
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/dom-kino.png" tvg-id="domkino",Дом кино
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMKINO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f1fae3f07ec0034e3c4bd54885dd7319}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Дом кино Премиум HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/dom-kino-premium.png" tvg-id="domkino-premium",Дом кино Премиум HD
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMKINOPREMIUMHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=0c8b44a4975aeb366b0013643cb61e2c}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Дорама
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/dorama.png" tvg-id="dorama",Дорама
 https://s91412.cdn.ngenix.net/mdrm/CH_DORAMA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=7468279dd732d8857fc5b5cbda5fd42d}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Иллюзион +
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/illuzion-plus.png" tvg-id="illuzion-plus",Иллюзион +
 https://s91412.cdn.ngenix.net/mdrm/CH_ULLUSIONPLUS/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c87d8e696cc9ecde1c94f55f340474a9}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Кино ТВ HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/kino-tv.png" tvg-id="kino-tv",Кино ТВ HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KINOTVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=be385300084dd7ec8b6f68548731d513}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Комедия
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/russkaya-komedia.png" tvg-id="russkaya-komedia",Комедия
 https://s91412.cdn.ngenix.net/mdrm/CH_KOMEDIA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=2a1b66155aeef1fde99417afa4e38f65}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Мир сериала
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/mir-seriala.png" tvg-id="mir-seriala",Мир сериала
 https://s91412.cdn.ngenix.net/mdrm/CH_MIRSERIALA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bd603f6e937d77c006b530d08375d273}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Мосфильм. Золотая коллекция HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/mosfilm.png" tvg-id="mosfilm",Мосфильм. Золотая коллекция HD
 https://s91412.cdn.ngenix.net/mdrm/CH_MOSFILMHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e997502f15e3eb5f5061fcafdf1a1279}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Настоящее Страшное ТВ
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/nst.png" tvg-id="nst",Настоящее Страшное ТВ
 https://s91412.cdn.ngenix.net/mdrm/CH_NSTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ed9c69397f31944f07f2c770e1ea9d53}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Наше любимое кино
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://i.imgur.com/IKn2wxm.png" tvg-id="lubimoe-kino",Наше любимое кино
 https://s91412.cdn.ngenix.net/mdrm/CH_LUBIMOE/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=3c294010248ba98bac89e9db673341cb}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Победа HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/pobeda.png" tvg-id="pobeda",Победа HD
 https://s91412.cdn.ngenix.net/mdrm/CH_POBEDAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9f100127a384466f03365890214d311b}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Ретро
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/retro-tv.png" tvg-id="retro-tv",Ретро
 https://s91412.cdn.ngenix.net/mdrm/CH_RETROTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=09c208b4d4a4b77bc99031d340aa2314}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Русский бестселлер
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/russky-bestseller.png" tvg-id="russky-bestseller",Русский бестселлер
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIANBESTSELLER/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=0b4ab121e6132624ae19b815e5bb9ce7}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Русский детектив
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/rus-detektiv.png" tvg-id="russky-detektiv",Русский детектив
 https://s91412.cdn.ngenix.net/mdrm/CH_C04_RUSSIANDETECTIVE/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e6fab4bc7a74cb34822a291f9972ed5c}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Русский иллюзион
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/russky-illuzion.png" tvg-id="russky-illuzion",Русский иллюзион
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIANILLUSION/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9d2360e8c0d7e5f20b122758a8df1697}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Русский роман HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/russky-roman.png" tvg-id="russky-roman",Русский роман HD
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSKIYROMANHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4d6786ea0e409b18adc272e12f6b6efd}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Страшное HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/strashnoe-hd.png" tvg-id="strashnoe-hd",Страшное HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C01_STRASHNOEHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=dcde9a75bb6d0e3aa73cbd06bc947fc7}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Суббота!
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/subbota.png" tvg-id="super",Суббота!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Суббота! HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/subbota.png" tvg-id="super",Суббота! HD
 https://s91412.cdn.ngenix.net/mdrm/CH_SUPERHD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a68427c2055ee2bfe1dbb902b81d5e27}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Театр HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/teatr.png" tvg-id="teatr",Театр HD
 https://s91412.cdn.ngenix.net/mdrm/CH_THEATERHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1185b7414ad5e8fa98e86fe83c6b3b60}
-#EXTINF:-1 group-title="Кино ZabavaNew" $ExtFilter="ZabavaNew",Феникс+ Кино HD
+#EXTINF:-1 group-title="Кино ZabavaNew" tvg-logo="https://picon.ml/feniks-plus-kino.png" tvg-id="feniks-plus-kino",Феникс+ Кино HD
 https://s91412.cdn.ngenix.net/mdrm/CH_FENIKSPLUSKINOHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=870fe84a9e14e2ed31f66fe0a7c8e6ac}
-#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" $ExtFilter="ZabavaNew",Кинокомедия
+#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" tvg-logo="https://picon.ml/kinokomedia.png" tvg-id="kinokomedia",Кинокомедия
 https://s91412.cdn.ngenix.net/mdrm/CH_COMEDYTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=867236edff653de28452cf592f346097}
-#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" $ExtFilter="ZabavaNew",Киномикс
+#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" tvg-logo="https://picon.ml/kinomiks.png" tvg-id="kinomiks",Киномикс
 https://s91412.cdn.ngenix.net/mdrm/CH_NTVPLUSKINO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9762ab771a573d4452b0093bbbbad5a8}
-#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" $ExtFilter="ZabavaNew",Кинопремьера HD
+#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" tvg-logo="https://picon.ml/kinopremiera.png" tvg-id="kinopremiera-hd",Кинопремьера HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KINOPREMIEREHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bd80bb017d3ec3e5734a4fdd39f4fd66}
-#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" $ExtFilter="ZabavaNew",Киносвидание HD
+#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" tvg-logo="https://picon.ml/kinosvidanie.png" tvg-id="kinosvidanie",Киносвидание HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KINODATEHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=93435ea2256bc5d9bb8cdcbf1103a151}
-#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" $ExtFilter="ZabavaNew",Киносемья HD
+#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" tvg-logo="https://picon.ml/kinosemia.png" tvg-id="kinosemiya",Киносемья HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KINOFAMILYHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a30c74f364bb11747e2337b7d2970be7}
-#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" $ExtFilter="ZabavaNew",Киносерия HD
+#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" tvg-logo="https://picon.ml/kinoseria.png" tvg-id="kinoseria",Киносерия HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KINOSERIAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e266cc0c49e335edc60cc7f0450e8c2c}
-#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" $ExtFilter="ZabavaNew",Киноужас HD
+#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" tvg-logo="https://picon.ml/kinouzhas.png" tvg-id="kinouzhas",Киноужас HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KINOUZHASHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=59c75e6a9250ea245b2449ad829ad0d3}
-#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" $ExtFilter="ZabavaNew",Кинохит HD
+#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" tvg-logo="https://picon.ml/kinoxit.png" tvg-id="kinoxit",Кинохит HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KINOHITHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=96e819fd1cbbc5022b125ccade455ac1}
-#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" $ExtFilter="ZabavaNew",Мужское кино
+#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" tvg-logo="https://picon.ml/muzhskoe-kino.png" tvg-id="muzhskoe-kino",Мужское кино
 https://s91412.cdn.ngenix.net/mdrm/CH_NTVPLUSKINOSOYUZ/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=061a663d8972c1f0875f52a82ca066f7}
-#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" $ExtFilter="ZabavaNew",Наше новое кино
+#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" tvg-logo="https://picon.ml/nashe-novoe-kino.png" tvg-id="nashe-novoe-kino",Наше новое кино
 https://s91412.cdn.ngenix.net/mdrm/CH_NTVPLUSNOVOEKINO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=af308512f8d1bc8a6640f3ec5b648838}
-#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" $ExtFilter="ZabavaNew",Родное кино
+#EXTINF:-1 group-title="Кинозал Настрой кино ZabavaNew" tvg-logo="https://picon.ml/rodnoe-kino.png" tvg-id="rodnoe-kino",Родное кино
 https://s91412.cdn.ngenix.net/mdrm/CH_NTVPLUSNASHEKINO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e65e855b64e27efa52d959c59f426eb8}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",KHL HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/kxl.png" tvg-id="kxl",KHL HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KHLHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ac9c167bd11b3fd787478bafb4e4148d}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",KHL Prime HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/kxl-hd.png" tvg-id="kxl-hd",KHL Prime HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KHLPRIMEHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c0c98269c54af60a01c63eff4177b0c9}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",MMA-TV.com
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/m1global.png" tvg-id="m1global",MMA-TV.com
 https://s91412.cdn.ngenix.net/mdrm/CH_M1GLOBAL/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=417b2dc394c89c25c26b3d8bed2bfa2b}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Russian Extreme HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/russky-ekstrim.png" tvg-id="russky-ekstrim",Russian Extreme HD
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=aafa9e3819395cd39631e0874438fd38}}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Russian Extreme Ultra HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/russian-extreme-uhd.png" tvg-id="russian-extreme-uhd",Russian Extreme Ultra HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",UDAR HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/ufc.png" tvg-id="ufc",UDAR HD
 https://s91412.cdn.ngenix.net/mdrm/CH_UFCHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ca864c1382c032c7fdd12afafe6f177f}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Viasat Sport
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/viasat-sport.png" tvg-id="viasat-sport",Viasat Sport
 https://s91412.cdn.ngenix.net/mdrm/CH_VIASATSPORT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d821c20c8e2911abaca1ceeb7f3fb105}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Viasat Sport HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/viasat-sport.png" tvg-id="viasat-sport",Viasat Sport HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C06_VIASATSPORTHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=79e96e13ba5203596032c0a659338f65}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Матч!
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/match.png" tvg-id="match-tv",Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Матч! HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/match.png" tvg-id="match-tv",Матч! HD
 https://s91412.cdn.ngenix.net/mdrm/CH_MATCHTVHD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=30f86356884c631013b958da49f3be5d}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Матч! HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/match.png" tvg-id="match-tv",Матч! HD
 https://s91412.cdn.ngenix.net/mdrm/CH_MATCHTVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ddb8034ac9a7e070332480a4d31b509b}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Матч! Арена HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/match-arena.png" tvg-id="match-arena",Матч! Арена HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C04_SPORT1HD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=53454567dd5df4b531d990780f9509fa}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Матч! Боец
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/match-boec.png" tvg-id="match-boets",Матч! Боец
 https://s91412.cdn.ngenix.net/mdrm/CH_BOETZ/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ffb5a7cc2ff19355ee2807e2c4163897}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Матч! Игра HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/match-igra.png" tvg-id="match-igra",Матч! Игра HD
 https://s91412.cdn.ngenix.net/mdrm/CH_MATCHIGRAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f5250faf44299c4bcb789385ab6bddfe}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Матч! Премьер HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/match-premiere.png" tvg-id="match-premier",Матч! Премьер HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=070ba058c7c6c0f3d4ebaa1450b9eb3d}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Матч! Страна
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/match-strana.png" tvg-id="match-nash-sport",Матч! Страна
 https://s91412.cdn.ngenix.net/mdrm/CH_NTVPLUSPORT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bfa2f9e8b3b660967b08c2e50616d214}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Матч! Футбол 1 HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/match-football1.png" tvg-id="match-football1",Матч! Футбол 1 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_FUTBALL1HD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=de28b5740dc4286df4282c0bdbd8b52d}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Матч! Футбол 2 HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/match-football2.png" tvg-id="match-football2",Матч! Футбол 2 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_FUTBALL2HD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=36f2f47806ac894ba3b4fbaa88b7e441}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Матч! Футбол 3 HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/match-football3.png" tvg-id="match-football3",Матч! Футбол 3 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_FUTBALL3HD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4ff8ac15d49b20bae294e78ca2041895}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Мир Баскетбола
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/mir-basketbola.png" tvg-id="mir-basketbola",Мир Баскетбола
 https://s91412.cdn.ngenix.net/mdrm/CH_MIRBASKETBOLA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=04dab64432ec7cc92568de98a74fc5ae}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Моторспорт ТВ HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/motorsporttv.png" tvg-id="motorsportv-tv",Моторспорт ТВ HD
 https://s91412.cdn.ngenix.net/mdrm/CH_MOTORSPORTTVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9938f064244f538c5c566fc94acdea7c
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Старт HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/start.png" tvg-id="start",Старт HD
 https://s91412.cdn.ngenix.net/mdrm/CH_STARTHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=40614a94a7cc59e00702bae82e0d6e83}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Старт Триумф HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://i.imgur.com/QpAcftC.png" tvg-id="start-triumf",Старт Триумф HD
 https://s91412.cdn.ngenix.net/mdrm/CH_STARTTRIUMFHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e890302e8440a8b7bc50df38ae299f8c}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Телеканал Футбол HD
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/football-ru.png" tvg-id="football-ru",Телеканал Футбол HD
 https://s91412.cdn.ngenix.net/mdrm/CH_FUTBALLHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9e7657b0d1c8b10b9dffb30b97496163}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Точка отрыва
+#EXTINF:-1 group-title="Спорт ZabavaNew" tvg-logo="https://picon.ml/tochka-otryva.png" tvg-id="tochka-otryva",Точка отрыва
 https://s91412.cdn.ngenix.net/mdrm/CH_TOCHKAOTRYVA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4bf80cf1ba7e83bbfc52956624c2db1d}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Ani
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/ani.png" tvg-id="ani",Ani
 https://s91412.cdn.ngenix.net/mdrm/CH_ANI/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e0d30b7b58f8af1edc136bcabd2dc012}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Baby TV
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/baby-tv.png" tvg-id="baby-tv",Baby TV
 https://s91412.cdn.ngenix.net/mdrm/CH_BABYTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d88e854c2b620fb9e0d23386f24412b1}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Da Vinci
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/da-vinci.png" tvg-id="da-vinci",Da Vinci
 https://s91412.cdn.ngenix.net/mdrm/CH_DAVINCILEARNING/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=38cc0709a5335994f457914c85b29bb6}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Gulli Girl
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/gulligirl.png" tvg-id="gulli-girl",Gulli Girl
 https://s91412.cdn.ngenix.net/mdrm/CH_GULLI/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=8fe8c77d7fd1f1a2d771ac0932b35885}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Tiji
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/tiji.png" tvg-id="tiji",Tiji
 https://s91412.cdn.ngenix.net/mdrm/CH_TIJI/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=53e0a85731998abc516aa40120a7f1dd}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",В гостях у сказки
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/v-gostiax-u-skazki.png" tvg-id="v-gostiax-u-skazki",В гостях у сказки
 https://s91412.cdn.ngenix.net/mdrm/CH_VGOSTYAHUSKAZKI/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ec290fea62cc871b4463c1ca051e6c67}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Детский Мир
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/detsky-mir.png" tvg-id="detsky-mir",Детский Мир
 https://s91412.cdn.ngenix.net/mdrm/CH_DETSKIJMIR/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d8538fda64a6f2c2076f2b2887e73e7d}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Карусель
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/karusel.png" tvg-id="karusel",Карусель
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Карусель HD
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/karusel.png" tvg-id="karusel",Карусель HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSELHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=04862ee40894ef2231712eaacd6f992c}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Лёва
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://i.imgur.com/cqdMTuo.png" tvg-id="no_epg",Лёва
 https://s91412.cdn.ngenix.net/mdrm/CH_LEVAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=b936ce9880395e00ff252cb9f8dcd11a}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",СуперГерои
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/malysh.png" tvg-id="malysh",СуперГерои
 https://s91412.cdn.ngenix.net/mdrm/CH_MALYSHTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=12f12519b5fc010c85c03f3ef57b7cd7}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Мама
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/mama.png" tvg-id="mama",Мама
 https://s91412.cdn.ngenix.net/mdrm/CH_MATIDITYA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c27c042746b9df1ee5dea29dd16fba7c}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Мульт
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/mult.png" tvg-id="mult",Мульт
 https://s91412.cdn.ngenix.net/mdrm/CH_MULT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=76195667b1ee047e8de0806e4f4b9c62}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Мульт HD
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/mult.png" tvg-id="mult",Мульт HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TLUMHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=5e2e735566896db237ae24d787dc6e17}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Мультиландия
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/multimania.png" tvg-id="multimania",Мультиландия
 https://s91412.cdn.ngenix.net/mdrm/CH_MULTIMANIA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e1b97266fda510f96afd8e9bb44f2f26}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Мультимузыка
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/multimuzyka.png" tvg-id="multimuzyka",Мультимузыка
 https://s91412.cdn.ngenix.net/mdrm/CH_STRANA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=58ed3f395c6954b87e97e5cce2cc131d}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",О!
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/o_.png" tvg-id="o_",О!
 https://s91412.cdn.ngenix.net/mdrm/CH_O/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=0f91215ba681aea7d1ee0a632437ac96}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Радость моя
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/radost-moya.png" tvg-id="radost-moya",Радость моя
 https://s91412.cdn.ngenix.net/mdrm/CH_RADOSTMOYA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=6354fa34c9ebd25ec80cc7218e837cff}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",СТС Kids HD
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/sts-kids-hd.png" tvg-id="sts-kids-hd",СТС Kids HD
 https://s91412.cdn.ngenix.net/mdrm/CH_STSKIDSHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=5af741123af07e47a1f3a3a4da9a80bb}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Солнце
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/solnce.png" tvg-id="solnce",Солнце
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Солнце
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/solnce.png" tvg-id="solnce",Солнце
 https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=76e760c33e99ede29fa147d50a3e7846}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Уникум
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/unikum.png" tvg-id="detsky",Уникум
 https://s91412.cdn.ngenix.net/mdrm/CH_DETSKIJ/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=65eb58d3bc8b64ca4823ea06edf1c6db}
-#EXTINF:-1 group-title="Детские ZabavaNew" $ExtFilter="ZabavaNew",Шаян ТВ (Казань)
+#EXTINF:-1 group-title="Детские ZabavaNew" tvg-logo="https://picon.ml/shayantv.png" tvg-id="shayantv",Шаян ТВ (Казань)
 https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",#ё HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://i.imgur.com/trKy7cg.png" tvg-id="yo",#ё HD
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",1HD Music Television
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/1hd-music.png" tvg-id="1hd",1HD Music Television
 https://s91412.cdn.ngenix.net/mdrm/CH_1HDMUSICTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=98e9e844ba917451a2ddb1cf064f8c80}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",AIVA HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/aiva.png" tvg-id="aiva",AIVA HD
 https://s91412.cdn.ngenix.net/mdrm/CH_AIVAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=632b42bec22cf047bd1c4f8600fb1933}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Bridge TV
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/bridge-tv.png" tvg-id="bridge-tv",Bridge TV
 https://s91412.cdn.ngenix.net/mdrm/CH_BRIDGETV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=76098ec90ddf35d86dfc9a9e2296893c}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Bridge TV Classic
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/bridge-tv-classic.png" tvg-id="bridge-tv-classic",Bridge TV Classic
 https://s91412.cdn.ngenix.net/mdrm/CH_BRIDGETVCLASSIC/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=8156b76dd2a78675f18cb3e7ab137ec4}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Bridge TV Deluxe
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/bridge-hd.png" tvg-id="bridge-hd",Bridge TV Deluxe
 https://s91412.cdn.ngenix.net/mdrm/CH_BRIDGEHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ad10a7423cc9a8daa287cdb79e3c646a}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Bridge TV Hits
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/bridge-tv-dance.png" tvg-id="bridge-tv-dance",Bridge TV Hits
 https://s91412.cdn.ngenix.net/mdrm/CH_BRIDGETVDANCE/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=cdcc3b67a1276863c564e419b5b06613}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Bridge TV Русский хит
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/bridge-tv-ruxit.png" tvg-id="bridge-tv-ruxit",Bridge TV Русский хит
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSONGTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=18cc762efc3d3fd449f5d13f4eb70422}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Bridge TV Шлягер
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/bridge-tv-shlager.png" tvg-id="bridge-tv-shlager",Bridge TV Шлягер
 https://s91412.cdn.ngenix.net/mdrm/CH_BRIDGETVSHLYAGER/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e0a3ae92a5aec7c6f3f4357fbdbc4485}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Clubbing TV HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/clubbing-tv.png" tvg-id="clubbing-tv",Clubbing TV HD
 https://s91412.cdn.ngenix.net/mdrm/CH_CLUBBINGHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bc4df6237e14ba835c172a0e91afdda9}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Europa Plus TV
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/europa-plus.png" tvg-id="europa-plus-tv",Europa Plus TV
 https://s91412.cdn.ngenix.net/mdrm/CH_EUROPAPLUSTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=62604a6e23c0ca8105699e4be1af858b}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",MCM TOP
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/mcm-top.png" tvg-id="mcm-top",MCM TOP
 https://s91412.cdn.ngenix.net/mdrm/CH_MCMTOP/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a8d23cff1e7f2ad6433b9661822cf8b8}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Mezzo HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/mezzo.png" tvg-id="mezzo",Mezzo HD
 https://s91412.cdn.ngenix.net/mdrm/CH_MEZZOHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=8a84d958a2f3df712b382138870fc8f8}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Mezzo Live HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/mezzo-live-hd.png" tvg-id="mezzo-live-hd",Mezzo Live HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C05_MEZZOLIVEHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=b5e36cba00e59588d3d9b3a75a19dd1d}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",MusicBox Gold
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/musicbox.png" tvg-id="musicbox",MusicBox Gold
 https://s91412.cdn.ngenix.net/mdrm/CH_MUSICBOXTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a100909efd289470eb5c52b5d496941e}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",RU.TV HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/rutv.png" tvg-id="ru-tv",RU.TV HD
 https://s91412.cdn.ngenix.net/mdrm/CH_RUTVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=809a7c3cb0a6587bdef047603cf6372e}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",MusicBox Russia HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/russian-musicbox.png" tvg-id="russian-musicbox",MusicBox Russia HD
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIAN_MUSICBOXHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=06d16cee21067fa57d47bbcdb67ac9c6}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Song TV Armenia HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/song-tv-ru.png" tvg-id="song-tv-ru",Song TV Armenia HD
 https://s91412.cdn.ngenix.net/mdrm/CH_SONGTVARMHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=016406bf7b9c44d13acc02d472089604}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Song TV Russia HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/song-tv-ru.png" tvg-id="song-tv-ru",Song TV Russia HD
 https://s91412.cdn.ngenix.net/mdrm/CH_SONGTVRUSHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9ac261a501ddd52e68860a8bba169e06}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Vostok TV
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/vostok-tv.png" tvg-id="vostok-tv",Vostok TV
 https://s91412.cdn.ngenix.net/mdrm/CH_VOSTOKTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1d9876ee5982533f51679810f72792f7}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",iConcerts HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/iconcerts.png" tvg-id="iconcerts",iConcerts HD
 https://s91412.cdn.ngenix.net/mdrm/CH_ICONCERTSHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1dcfdc9cb80e4b054403fdc2cd3a6c31}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Жара TV HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/zhara.png" tvg-id="zhara",Жара TV HD
 https://s91412.cdn.ngenix.net/mdrm/CH_JARAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=07841f70dd0878901381fa752b809e5a}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Ля-минор
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/la-minor.png" tvg-id="la-minor",Ля-минор
 https://s91412.cdn.ngenix.net/mdrm/CH_AMOLL/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e49c71f8a1175ad91e155ee41d11d0d2}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Муз-ТВ
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/muztv.png" tvg-id="muztv",Муз-ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Музыка Первого
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/muzyka-pervogo.png" tvg-id="muzyka-pervogo",Музыка Первого
 https://s91412.cdn.ngenix.net/mdrm/CH_MUZYKAPERVOGO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=7b804e3fa0b6fcd0cc2da76a161adff9}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",О!2 HD
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/o2tv.png" tvg-id="o2tv",О!2 HD
 https://s91412.cdn.ngenix.net/mdrm/CH_O2TVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e44365c84ec7d06a48dff300079d126d}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",ТНТ Music
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/tnt-music.png" tvg-id="tnt-music",ТНТ Music
 https://s91412.cdn.ngenix.net/mdrm/CH_AONE/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=dcc3308a179929de2d18af6c4335b232}
-#EXTINF:-1 group-title="Музыка ZabavaNew" $ExtFilter="ZabavaNew",Шансон ТВ
+#EXTINF:-1 group-title="Музыка ZabavaNew" tvg-logo="https://picon.ml/shanson-tv.png" tvg-id="shanson-tv",Шансон ТВ
 https://s91412.cdn.ngenix.net/mdrm/CH_SHANSONTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=fc5b64ce46d8acaf54b391267d9fce7b}
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",Leomax 24
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://picon.ml/shop24.png" tvg-id="shop24",Leomax 24
 https://s91412.cdn.ngenix.net/mdrm/CH_C04_SHOP24/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=6bda50666daa6526538d7724334e60fd}
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",Quadro 4K
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://i.imgur.com/5TMvkmA.png" tvg-id="no_epg",Quadro 4K
 https://s91412.cdn.ngenix.net/mdrm/CH_QUADRO4K/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=5026966d87683933bd38ed0d1810fb2a}
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",Shop&Show
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://i.imgur.com/BDjG0hy.png" tvg-id="shop-n-show",Shop&Show
 https://s91412.cdn.ngenix.net/mdrm/CH_SHOPANDSHOW/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=b222184c2c008d14bb6a2c7d079379cf}
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",Shopping Live
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://picon.ml/shopping-live.png" tvg-id="shopping-live",Shopping Live
 https://s91412.cdn.ngenix.net/mdrm/CH_SHOPPINGLIFE/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=150f6256eb2202217212ea49912eda86}
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",MyZen TV HD
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://picon.ml/myzen-tv.png" tvg-id="myzen-tv",MyZen TV HD
 https://s91412.cdn.ngenix.net/mdrm/CH_C05_MYZENTVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f5e891ae492cc396df0ec7a4fc86498f}
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",Вместе-РФ
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://picon.ml/vmeste-rf.png" tvg-id="vmeste-rf",Вместе-РФ
 https://s91412.cdn.ngenix.net/mdrm/CH_SOVETFEDERATSII/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=fd3c5159c8f96acad39dc99d021cf6ef}
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",Дума ТВ
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://picon.ml/dumatv.png" tvg-id="dumatv",Дума ТВ
 https://s91412.cdn.ngenix.net/mdrm/CH_DUMATV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=3b5dfeb6a9f4bb69479d124bc204d53c}
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",Красная линия
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://picon.ml/krasnaya-linia.png" tvg-id="krasnaya-linia",Красная линия
 https://s91412.cdn.ngenix.net/mdrm/CH_REDLINE/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=b97e5d4cad1921d6c352833c96de247c}
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",ЛДПР ТВ
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://picon.ml/ldpr-tv.png" tvg-id="ldpr-tv",ЛДПР ТВ
 https://s91412.cdn.ngenix.net/mdrm/CH_LDPR/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=674e7dcb0a1dbfc4b4e08fec6f14b55a}
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",СПАС
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://picon.ml/spas.png" tvg-id="spas",СПАС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",Союз
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://picon.ml/soyuz.png" tvg-id="soyuz",Союз
 https://s91412.cdn.ngenix.net/mdrm/CH_SOYUZ/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ff9ad36575890dfe698b0e6a6fd69bef}
-#EXTINF:-1 group-title="Разные ZabavaNew" $ExtFilter="ZabavaNew",Ювелирочка
+#EXTINF:-1 group-title="Разные ZabavaNew" tvg-logo="https://picon.ml/yuvelirochka.png" tvg-id="yuvelirochka",Ювелирочка
 https://s91412.cdn.ngenix.net/mdrm/CH_JUVELIRTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=af84d835384f942d043abf6f78af0434}
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",12 канал (Омск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/12-omsk.png" tvg-id="12-omsk",12 канал (Омск) HD
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",31 канал (Челябинск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/31-kanal-chelyabinsk.png" tvg-id="31-kanal-chelyabinsk",31 канал (Челябинск)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",360 Подмосковье HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/360-podmoskovie.png" tvg-id="360-podmoskovie",360 Подмосковье HD
 https://s91412.cdn.ngenix.net/mdrm/CH_PODMOSKOVIEHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d1f866ef0cb82be7e200f06347e3c0d7}
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",41 Регион (Камчатка)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/xxu02TS.png" tvg-id="no_epg",41 Регион (Камчатка)
 https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",41 Регион (Камчатка)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/xxu02TS.png" tvg-id="no_epg",41 Регион (Камчатка)
 https://s14131.cdn.ngenix.net/hls/CH_R02_41REG_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",6 ТВ (Хабаровск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/6tv.png" tvg-id="6tv",6 ТВ (Хабаровск)
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",7 канал (Красноярск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/7kanal-krasnoyarsk.png" tvg-id="7kanal-krasnoyarsk",7 канал (Красноярск)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",8 канал (Владивосток)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/8vladik.png" tvg-id="8vladik",8 канал (Владивосток)
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",8 канал (Красноярск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/8kanal-eu.png" tvg-id="8kanal-krasnoyarsk",8 канал (Красноярск)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",8 канал (Новосибирск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/8kanal-eu.png" tvg-id="8kanal-novosibirsk",8 канал (Новосибирск)
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",TMTV (Казань)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tmtv.png" tvg-id="tmtv",TMTV (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",TV Губерния (Воронеж)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tv-guberniya.png" tvg-id="tv-guberniya",TV Губерния (Воронеж)
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",TV Губерния (Воронеж)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tv-guberniya.png" tvg-id="tv-guberniya",TV Губерния (Воронеж)
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_TVGUBERNIYA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",UGRA TRAVEL (Сургут)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/ugra-travel.png" tvg-id="ugra-travel",UGRA TRAVEL (Сургут)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",UGRA TRAVEL (Сургут)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/ugra-travel.png" tvg-id="ugra-travel",UGRA TRAVEL (Сургут)
 https://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",АТВ (Ставрополь)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/FTUG378.png" tvg-id="no_epg",АТВ (Ставрополь)
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",АТВ-Медиа (Улан-удэ)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/OI4ekrr.png" tvg-id="atv-media",АТВ-Медиа (Улан-удэ)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Аист ТВ (Иркутск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/aist.png" tvg-id="aist",Аист ТВ (Иркутск) HD
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Актис (Ангарск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/aktis.png" tvg-id="aktis",Актис (Ангарск) HD
 https://rt-sib-irk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AKTIS/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Амурское областное телевидение (Благовещенск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/1obl-blagoveschensk.png" tvg-id="1obl-blagoveschensk",Амурское областное телевидение (Благовещенск)
 https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Ариг Ус (Улан-Удэ)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/arig-us-24.png" tvg-id="arig-us-24",Ариг Ус (Улан-Удэ)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Арктик-ТВ (Мурманск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/arktik-tv.png" tvg-id="arktik-tv",Арктик-ТВ (Мурманск) HD
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Архыз 24 (Черкесск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/arxyz24.png" tvg-id="arxyz24",Архыз 24 (Черкесск) HD
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Астрахань 24 HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/astraxan24.png" tvg-id="astraxan24",Астрахань 24 HD
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Астрахань 24 HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/astraxan24.png" tvg-id="astraxan24",Астрахань 24 HD
 https://rt-sth-astrh-htlive-lb.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Афонтово (Красноярск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/afontovo-kr.png" tvg-id="afontovo-kr",Афонтово (Красноярск) HD
 https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",БСТ (Уфа)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/bst.png" tvg-id="bst",БСТ (Уфа)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Барс (Иваново)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/bars.png" tvg-id="bars",Барс (Иваново)
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Башкортостан 24 (Уфа)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/bashkortostan24.png" tvg-id="bashkortostan24",Башкортостан 24 (Уфа)
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",БелРос
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/belros.png" tvg-id="tro",БелРос
 https://s91412.cdn.ngenix.net/mdrm/CH_TRO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=15cef47e793a880dc4228a178c715257}
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Беларусь 24
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/belarus24.png" tvg-id="belarus24",Беларусь 24
 https://s91412.cdn.ngenix.net/mdrm/CH_BELARUS24/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=8bcd0c5f246365b41c34c3b7d7c4db12}
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Белгород 24
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/belgorod24.png" tvg-id="belgorod24",Белгород 24
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Брянская губерния (Брянск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/brianskaya-gubernia.png" tvg-id="brianskaya-gubernia",Брянская губерния (Брянск) HD
 https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ВОТ ТВ (Липецк) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/vot-tv.png" tvg-id="vot-tv",ВОТ ТВ (Липецк) HD
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ВТК 41 «Аргус» (Воронеж) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/FvW2NXW.png" tvg-id="no_epg",ВТК 41 «Аргус» (Воронеж) HD
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Вариант (Владимир)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tk-variant.png" tvg-id="tk-variant",Вариант (Владимир)
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Вектор 24 (Губкинский)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/Afjw1rO.png" tvg-id="no_epg",Вектор 24 (Губкинский)
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Ветта 24 (Пермь)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/Z4NojFp.png" tvg-id="vetta24",Ветта 24 (Пермь)
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Волга (Нижний Новгород)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/volga.png" tvg-id="volga",Волга (Нижний Новгород)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Волгоград 1 HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/volgograd-1.png" tvg-id="volgograd-1",Волгоград 1 HD
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Волгоград 24 HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/volgograd-24.png" tvg-id="volgograd-24",Волгоград 24 HD
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Восток 24 (Владивосток)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/76hYFMT.png" tvg-id="vostok-24",Восток 24 (Владивосток)
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Волга 24 (Нижний Новгород)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/vremia-n.png" tvg-id="vremia-n",Волга 24 (Нижний Новгород)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ГТ-Регион (Ярославль)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/bm5X74o.png" tvg-id="no_epg",ГТ-Регион (Ярославль)
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Губерния (Самара)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/gubernia-samara.png" tvg-id="gubernia-samara",Губерния (Самара)
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Губерния (Хабаровск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/gubernia.png" tvg-id="gubernia",Губерния (Хабаровск)
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Губерния 33 (Владимир) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/LV91j2h.png" tvg-id="gubernia-33",Губерния 33 (Владимир) HD
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Девятка ТВ (Киров)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/deviatka.png" tvg-id="deviatka",Девятка ТВ (Киров)
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Дзержинск ТВ (Дзержинск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/dzenzhinsk-tv.png" tvg-id="dzenzhinsk-tv",Дзержинск ТВ (Дзержинск)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Дон 24 (Ростов-на-Дону) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/don-24.png" tvg-id="don-24",Дон 24 (Ростов-на-Дону) HD
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Евразия (Орск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/evrasia.png" tvg-id="evrasia",Евразия (Орск)
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Енисей (Красноярск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/enisey-region.png" tvg-id="enisey-region",Енисей (Красноярск) HD
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ИОТ (Иваново)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/W8A3IjK.png" tvg-id="no_epg",ИОТ (Иваново)
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Импульс (Новый Уренгой) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/spKQwNd.png" tvg-id="no_epg",Импульс (Новый Уренгой) HD
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Кабардино-Балкария (Нальчик)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/kabardino-balkaria.png" tvg-id="kabardino-balkaria",Кабардино-Балкария (Нальчик)
 https://rt-sth-nalch-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Камчатка 1 HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/68aOODr.png" tvg-id="no_epg",Камчатка 1 HD
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Каскад (Калининград)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/kaskad24.png" tvg-id="kaskad24",Каскад (Калининград)
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Катунь 24 (Барнаул)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/katun-24.png" tvg-id="katun-24",Катунь 24 (Барнаул)
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Колыма+ (Магадан) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/kolyma-plus.png" tvg-id="kolyma-plus",Колыма+ (Магадан) HD
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Краснодар HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/krasnodar.png" tvg-id="krasnodar",Краснодар HD
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Кубань 24 (Краснодар)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/kuban-24.png" tvg-id="kuban-24",Кубань 24 (Краснодар)
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_KUBAN24-T/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Кузбасс 1 (Кемерово)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/1NbX8dy.png" tvg-id="kuzbas1",Кузбасс 1 (Кемерово)
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Лен ТВ 24 (Санкт-Петербург)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/lot-47.png" tvg-id="lot-47",Лен ТВ 24 (Санкт-Петербург)
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Липецкое время (Липецк) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/lipeckoe-vremia.png" tvg-id="lipeckoe-vremia",Липецкое время (Липецк) HD
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",МТВ (Майкоп)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/vKCYhhR.png" tvg-id="no_epg",МТВ (Майкоп)
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_MAYKOP/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",МЭТР (Йошкар-Ола)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/metr.png" tvg-id="metr",МЭТР (Йошкар-Ола)
 https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Майдан (Казань)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/maydan.png" tvg-id="maydan",Майдан (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Матур ТВ
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/matur-tv.png" tvg-id="matur-tv",Матур ТВ
 https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",МиГ ТВ (Ноябрьск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/mig-tv-noyabrsk.png" tvg-id="mig-tv-noyabrsk",МиГ ТВ (Ноябрьск)
 https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",МиГ ТВ (Ноябрьск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/mig-tv-noyabrsk.png" tvg-id="mig-tv-noyabrsk",МиГ ТВ (Ноябрьск)
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Мир Белогорья (Белгород)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/mir-belogoria.png" tvg-id="mir-belogoria",Мир Белогорья (Белгород)
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Москва 24
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/moskva-24.png" tvg-id="moskva-24",Москва 24
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Москва Доверие
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/doverie.png" tvg-id="doverie",Москва Доверие
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Муравленко 24
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/muravlenko24.png" tvg-id="muravlenko24",Муравленко 24
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",НВК Саха (Якутск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/saxa.png" tvg-id="saxa",НВК Саха (Якутск)
 https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ННТВ (Нижний Новгород)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/nntv.png" tvg-id="nntv",ННТВ (Нижний Новгород)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",НСК 49 (Новосибирск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/49kanal.png" tvg-id="49kanal",НСК 49 (Новосибирск)
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",НТК (Биробиджан)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/ntk-kz.png" tvg-id="ntk-kz",НТК (Биробиджан)
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",НТМ (Саранск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/ntm.png" tvg-id="ntm",НТМ (Саранск)
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",НТС (Иркутск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/nts-irkutsk.png" tvg-id="nts-irkutsk",НТС (Иркутск)
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",НТС-Ирбит (Екатеринбург)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/nts-irbit.png" tvg-id="nts-irbit",НТС-Ирбит (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Национальное ТВ Чувашии (Чебоксары)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://telebegun.ru/uploads/channels/thumb_chavashen.png" tvg-id="no_epg",Национальное ТВ Чувашии (Чебоксары)
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Наш Дом (Пенза)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/nash-dom.png" tvg-id="nash-dom",Наш Дом (Пенза)
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Наши города (Сургут)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/O47qJYe.png" tvg-id="no_epg",Наши города (Сургут)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Ника ТВ (Калуга)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/nika-tv.png" tvg-id="nika-tv",Ника ТВ (Калуга)
 https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KALUGA_NIKA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Ника ТВ (Калуга)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/nika-tv.png" tvg-id="nika-tv",Ника ТВ (Калуга)
 https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Новгородское областное телевидение (Великий Новгород)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/novgorodskoe-obl-tv.png" tvg-id="novgorodskoe-obl-tv",Новгородское областное телевидение (Великий Новгород)
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Новое время (Радужный)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/VeAP9Km.png" tvg-id="no_epg",Новое время (Радужный)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Новый век (Тамбов)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/novy-vek-tambov.png" tvg-id="novy-vek-tambov",Новый век (Тамбов)
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ОРТ-Планета (Оренбург)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/ort-planeta-orenburg.png" tvg-id="ort-planeta-orenburg",ОРТ-Планета (Оренбург)
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ОТВ (Екатеринбург) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/otv-eburg.png" tvg-id="otv-eburg",ОТВ (Екатеринбург) HD
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ОТВ (Челябинск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/otv-chelyabinsk.png" tvg-id="otv-chelyabinsk",ОТВ (Челябинск) HD
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ОТВ Приморье (Владивосток)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/otv-primorie.png" tvg-id="otv-primorie",ОТВ Приморье (Владивосток)
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ОТВ Сахалин (Южносахалинск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/otv-saxalin.png" tvg-id="otv-saxalin",ОТВ Сахалин (Южносахалинск)
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ОТС (Новосибирск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/ots.png" tvg-id="ots",ОТС (Новосибирск) HD
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Область 45 (Курган)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/irZmXuY.png" tvg-id="no_epg",Область 45 (Курган)
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Объектив 59 (Пермь) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/objektiv-59.png" tvg-id="objektiv-59",Объектив 59 (Пермь) HD
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Объектив 59 (Пермь) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/objektiv-59.png" tvg-id="objektiv-59",Объектив 59 (Пермь) HD
 https://rt-ural-perm-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Осетия-Ирыстон (Владикавказ) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/osetia-iryston.png" tvg-id="osetia-iryston",Осетия-Ирыстон (Владикавказ) HD
 https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Первый Советский (Югра)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/GiHDj0u.png" tvg-id="no_epg",Первый Советский (Югра)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Первый Тульский (Тула) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/pervy-tulsky.png" tvg-id="pervy-tulsky",Первый Тульский (Тула) HD
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Первый Ярославский (Ярославль) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/pervy-yaroslavsky.png" tvg-id="pervy-yaroslavsky",Первый Ярославский (Ярославль) HD
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Первый городской (Киров)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/pervy-gorodskoy-kirov.png" tvg-id="pervy-gorodskoy-kirov",Первый городской (Киров)
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Первый городской (Омск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/pervy-gorodskoy-omsk.png" tvg-id="pervy-gorodskoy-omsk",Первый городской (Омск)
 https://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Первый областной (Орел)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/pervy-oblastnoy-orel.png" tvg-id="pervy-oblastnoy-orel",Первый областной (Орел)
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Первый областной (Орел)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/pervy-oblastnoy-orel.png" tvg-id="pervy-oblastnoy-orel",Первый областной (Орел)
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_ORL_PERVOBL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Прима (Красноярск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/prima.png" tvg-id="prima",Прима (Красноярск)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Продвижение (Омск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/prodvizhenie.png" tvg-id="prodvizhenie",Продвижение (Омск)
 https://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",РГВК Дагестан (Махачкала)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/3uQMo6r.png" tvg-id="rgvk-dagestan",РГВК Дагестан (Махачкала)
 https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",РИМ (Каменск-Уральский)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/mORKQIq.png" tvg-id="rimtv",РИМ (Каменск-Уральский)
 https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",РИФЕЙ (Пермь)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/rifey-tv.png" tvg-id="rifey-tv",РИФЕЙ (Пермь)
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",РТС (Абакан)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/rts-abakan.png" tvg-id="rts-abakan",РТС (Абакан)
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Регион 29 (Архангельск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/region29.png" tvg-id="region29",Регион 29 (Архангельск)
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Репортер 73 (Ульяновск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/reportior-73.png" tvg-id="reportior-73",Репортер 73 (Ульяновск)
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Ростов-папа (Ростов-на-Дону) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/rostov-papa.png" tvg-id="rostov-papa",Ростов-папа (Ростов-на-Дону) HD
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_ROSTOVPAPA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Русский Север (Вологда)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/russky-sever.png" tvg-id="russky-sever",Русский Север (Вологда)
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Рыбинск-40 (Ярославль)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/Rxp9inU.png" tvg-id="rybinsk40",Рыбинск-40 (Ярославль)
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",С1 (Сургут) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/s1-surgut.png" tvg-id="s1-surgut",С1 (Сургут) HD
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",СВОЁ ТВ (Ставрополь) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/svoyo-tv-stavropol.png" tvg-id="svoyo-tv-stavropol",СВОЁ ТВ (Ставрополь) HD
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Самара-Гис (Самара)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/gis-samara.png" tvg-id="gis-samara",Самара-Гис (Самара)
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Сампо ТВ 360 (Петрозаводск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/sampo-tv.png" tvg-id="sampo-tv",Сампо ТВ 360 (Петрозаводск)
 https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Саратов 24 (Саратов)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/saratov-24.png" tvg-id="saratov-24",Саратов 24 (Саратов)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Сочи 24 HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/KxmWNkl.png" tvg-id="sochi24",Сочи 24 HD
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Сургут 24
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/5UWMXaI.png" tvg-id="surgut-24",Сургут 24
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ТВ-7 (Абакан)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/dPXv66H.png" tvg-id="no_epg",ТВ-7 (Абакан)
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ТВ-ИН (Магнитогорск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tv-in.png" tvg-id="tv-in",ТВ-ИН (Магнитогорск) HD
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ТВ21+ (Мурманск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/v3m9yhU.png" tvg-id="no_epg",ТВ21+ (Мурманск)
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ТКР (Рязань)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/trk-ryazan.png" tvg-id="trk-ryazan",ТКР (Рязань)
 https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ТНВ Планета (Казань)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tnv.png" tvg-id="tnv-planeta",ТНВ Планета (Казань)
 https://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TNV_PLANETA_URAL/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ТНВ Планета (Казань)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tnv.png" tvg-id="tnv-planeta",ТНВ Планета (Казань)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ТНВ Татарстан (Казань)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tnv-tat.png" tvg-id="tnv",ТНВ Татарстан (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ТНР24 (Нижневартовск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/jR9bn19.png" tvg-id="no_epg",ТНР24 (Нижневартовск)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Тагил-ТВ (Тагил)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tagil-tv-24.png" tvg-id="tagil-tv-24",Тагил-ТВ (Тагил)
 https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Татарстан-24 (Казань)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tatarstan24.png" tvg-id="tatarstan24",Татарстан-24 (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Тверской Проспект (Тверь)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tverskoy-prospekt.png" tvg-id="tverskoy-prospekt",Тверской Проспект (Тверь)
 https://rt-ct-tver-htlive-lb.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Тивиком (Улан-Удэ) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tivikom.png" tvg-id="tivikom",Тивиком (Улан-Удэ) HD
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Толк (Барнаул)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/4nATpHZ.png" tvg-id="no_epg",Толк (Барнаул)
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Толпар ТВ (Уфа)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/iEpLRPf.png" tvg-id="tolpartv",Толпар ТВ (Уфа)
 https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Тольятти-24
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tolyatti24.png" tvg-id="tolyatti24",Тольятти-24
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Томское время (Томск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tomskoe-vremia.png" tvg-id="tomskoe-vremia",Томское время (Томск) HD
 https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Томское время (Томск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tomskoe-vremia.png" tvg-id="tomskoe-vremia",Томское время (Томск) HD
 https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_TOMSKVREMIA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Тюменское время (Тюмень)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/tumenskoe-vremia.png" tvg-id="tumenskoe-vremia",Тюменское время (Тюмень)
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Удмуртия (Ижевск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/udmurtia.png" tvg-id="udmurtia",Удмуртия (Ижевск)
 https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",УлПравда ТВ (Ульяновск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/ulianovskaya-pravda.png" tvg-id="no_ulianovskaya-pravdaepg",УлПравда ТВ (Ульяновск)
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Хамдан-Калмыкия 24 (Элиста)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/xamdan-kalm24.png" tvg-id="xamdan-kalm24",Хамдан-Калмыкия 24 (Элиста)
 https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Экспресс (Пенза) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/express.png" tvg-id="express",Экспресс (Пенза) HD
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Эфир (Казань)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/efir24-relax.png" tvg-id="efir24-relax",Эфир (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",ЮТВ (Чебоксары)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/utv-cheboxary.png" tvg-id="utv-cheboxary",ЮТВ (Чебоксары)
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Югорск ТВ (Сургут)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/xoDZXeM.png" tvg-id="no_epg",Югорск ТВ (Сургут)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_YUGORSKTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Югра (Тюмень)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/yugra.png" tvg-id="yugra",Югра (Тюмень)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Юрган (Сыктывкар)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/yurgan.png" tvg-id="yurgan",Юрган (Сыктывкар)
 https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Якутия 24 (Якутск)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/Tjc0Pnl.png" tvg-id="yakutia24",Якутия 24 (Якутск)
 https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Ямал 1 (Ноябрьск) HD
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://i.imgur.com/cdpexiY.png" tvg-id="vremia-arktiki",Ямал 1 (Ноябрьск) HD
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
-#EXTINF:-1 group-title="Региональные ZabavaNew" $ExtFilter="ZabavaNew",Ямал-Регион (Салехард)
+#EXTINF:-1 group-title="Региональные ZabavaNew" tvg-logo="https://picon.ml/yamal-region.png" tvg-id="yamal-region",Ямал-Регион (Салехард)
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",2x2 (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/2x2-pl2.png" tvg-id="2na2-pl2",2x2 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",2x2 (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/2x2-pl4.png" tvg-id="2na2-pl4",2x2 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",2x2 (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/2x2-pl7.png" tvg-id="2na2-pl7",2x2 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Домашний (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/domashny-pl2.png" tvg-id="domashny-pl2",Домашний (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Домашний (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/domashny-pl4.png" tvg-id="domashny-pl4",Домашний (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Домашний (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/domashny-pl7.png" tvg-id="domashny-pl7",Домашний (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Звезда (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/zvezda-pl2.png" tvg-id="zvezda-pl2",Звезда (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Звезда (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/zvezda-pl4.png" tvg-id="zvezda-pl4",Звезда (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Звезда (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/zvezda-pl7.png" tvg-id="zvezda-pl7",Звезда (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Карусель (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/karusel-pl2.png" tvg-id="karusel-pl2",Карусель (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Карусель (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/karusel-pl4.png" tvg-id="karusel-pl4",Карусель (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Карусель (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/karusel-pl7.png" tvg-id="karusel-pl7",Карусель (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Мир (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/mir-pl2.png" tvg-id="mir-pl2",Мир (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Мир (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/mir-pl4.png" tvg-id="mir-pl4",Мир (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Мир (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/mir-pl7.png" tvg-id="mir-pl7",Мир (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Муз-ТВ (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/muztv-pl2.png" tvg-id="muztv-pl2",Муз-ТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Муз-ТВ (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/muztv-pl4.png" tvg-id="muztv-pl4",Муз-ТВ (+4)
 https://hlsstr01.svc.iptv.rt.ru/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Муз-ТВ (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/muztv-pl4.png" tvg-id="muztv-pl4",Муз-ТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Муз-ТВ (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/muztv-pl7.png" tvg-id="muztv-pl7",Муз-ТВ (+7)
 https://hlsstr01.svc.iptv.rt.ru/hls/CH_MUZTV_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Муз-ТВ (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/muztv-pl7.png" tvg-id="muztv-pl7",Муз-ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",НТВ (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/ntv-pl2.png" tvg-id="ntv-pl2",НТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",НТВ (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/ntv-pl2.png" tvg-id="ntv-pl2",НТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",НТВ (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/ntv-pl4.png" tvg-id="ntv-pl4",НТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",НТВ (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/ntv-pl7.png" tvg-id="ntv-pl7",НТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+1)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl1.png" tvg-id="pervy-pl1",Первый канал (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl2.png" tvg-id="pervy-pl2",Первый канал (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl2.png" tvg-id="pervy-pl2",Первый канал (+2)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+3)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl3.png" tvg-id="pervy-pl3",Первый канал (+3)
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl4.png" tvg-id="pervy-pl4",Первый канал (+4)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl4.png" tvg-id="pervy-pl4",Первый канал (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+6)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl6.png" tvg-id="pervy-pl6",Первый канал (+6)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+6)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl6.png" tvg-id="pervy-pl6",Первый канал (+6)
 https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_1TV/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl7.png" tvg-id="pervy-pl7",Первый канал (+7)
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+8)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl8.png" tvg-id="pervy-pl8",Первый канал (+8)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+8)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl8.png" tvg-id="pervy-pl8",Первый канал (+8)
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_1TV/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Первый канал (+9)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/pervy-pl9.png" tvg-id="pervy-pl9",Первый канал (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Пятница! (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/piatnica-pl2.png" tvg-id="piatnica-pl2",Пятница! (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Пятница! (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/piatnica-pl4.png" tvg-id="piatnica-pl4",Пятница! (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Пятница! (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/piatnica-pl7.png" tvg-id="piatnica-pl7",Пятница! (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Пятый канал (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/5kanal-ru-pl2.png" tvg-id="5kanal-ru-pl2",Пятый канал (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Пятый канал (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/5kanal-ru-pl4.png" tvg-id="5kanal-ru-pl4",Пятый канал (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Пятый канал (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/5kanal-ru-pl7.png" tvg-id="5kanal-ru-pl7",Пятый канал (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",РЕН ТВ (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rentv-pl2.png" tvg-id="rentv-pl2",РЕН ТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",РЕН ТВ (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rentv-pl4.png" tvg-id="rentv-pl4",РЕН ТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",РЕН ТВ (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rentv-pl7.png" tvg-id="rentv-pl7",РЕН ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Россия 1 (+1)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rossia1-pl1.png" tvg-id="rossia1-pl1",Россия 1 (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Россия 1 (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rossia1-pl2.png" tvg-id="rossia1-pl2",Россия 1 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Россия 1 (+3)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rossia1-pl3.png" tvg-id="rossia1-pl3",Россия 1 (+3)
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Россия 1 (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rossia1-pl4.png" tvg-id="rossia1-pl4",Россия 1 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Россия 1 (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rossia1-pl7.png" tvg-id="rossia1-pl7",Россия 1 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Россия 1 (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rossia1-pl7.png" tvg-id="rossia1-pl7",Россия 1 (+7)
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Россия 1 (+8)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rossia1-pl8.png" tvg-id="rossia1-pl8",Россия 1 (+8)
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Россия 1 (+9)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rossia1-pl9.png" tvg-id="rossia1-pl9",Россия 1 (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Россия К (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rossia-k-pl2.png" tvg-id="kultura-pl2",Россия К (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Россия К (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rossia-k-pl4.png" tvg-id="kultura-pl4",Россия К (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Россия К (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/rossia-k-pl7.png" tvg-id="kultura-pl7",Россия К (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",СТС (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/sts-pl2.png" tvg-id="sts-pl2",СТС (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",СТС (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/sts-pl4.png" tvg-id="sts-pl4",СТС (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",СТС (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/sts-pl7.png" tvg-id="sts-pl7",СТС (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",СТС Love (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/sts-love-pl2.png" tvg-id="sts-love-pl2",СТС Love (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",СТС Love (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/sts-love-pl7.png" tvg-id="sts-love-pl7",СТС Love (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Солнце (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/solnce.png" tvg-id="solnce-pl4",Солнце (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Солнце (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/solnce.png" tvg-id="solnce-pl7",Солнце (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Суббота! (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/subbota-pl2.png" tvg-id="super-pl2",Суббота! (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Суббота! (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/subbota-pl4.png" tvg-id="super-pl4",Суббота! (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Суббота! (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/subbota-pl7.png" tvg-id="super-pl7",Суббота! (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТВ Центр (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tvcentr-pl2.png" tvg-id="tvcentr-pl2",ТВ Центр (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТВ Центр (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tvcentr-pl4.png" tvg-id="tvcentr-pl4",ТВ Центр (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТВ Центр (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tvcentr-pl7.png" tvg-id="tvcentr-pl7",ТВ Центр (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТВ-3 (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tv3-ru-pl2.png" tvg-id="tv3-ru-pl2",ТВ-3 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТВ-3 (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tv3-ru-pl4.png" tvg-id="tv3-ru-pl4",ТВ-3 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТВ-3 (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tv3-ru-pl7.png" tvg-id="tv3-ru-pl7",ТВ-3 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТНТ (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tnt-pl2.png" tvg-id="tnt-pl2",ТНТ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТНТ (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tnt-pl4.png" tvg-id="tnt-pl4",ТНТ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТНТ (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tnt-pl7.png" tvg-id="tnt-pl7",ТНТ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТНТ4 (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tnt4-pl2.png" tvg-id="tnt4-pl2",ТНТ4 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТНТ4 (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tnt4-pl4.png" tvg-id="tnt4-pl4",ТНТ4 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",ТНТ4 (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/tnt4-pl7.png" tvg-id="tnt4-pl7",ТНТ4 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Че! (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/che-pl2.png" tvg-id="che-pl2",Че! (+2)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Че! (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/che-pl4.png" tvg-id="che-pl4",Че! (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Че! (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/che-pl7.png" tvg-id="che-pl7",Че! (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Ю (+2)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/yu-pl2.png" tvg-id="yu-pl2",Ю (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Ю (+4)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/yu-pl4.png" tvg-id="yu-pl4",Ю (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" $ExtFilter="ZabavaNew",Ю (+7)
+#EXTINF:-1 group-title="Со сдвигом времени ZabavaNew" tvg-logo="https://picon.ml/yu-pl7.png" tvg-id="yu-pl7",Ю (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Зарубежные ZabavaNew" $ExtFilter="ZabavaNew",Arirang
+#EXTINF:-1 group-title="Зарубежные ZabavaNew" tvg-logo="https://picon.ml/arirang.png" tvg-id="arirang",Arirang
 https://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTARIRANG/variant.m3u8
-#EXTINF:-1 group-title="Зарубежные ZabavaNew" $ExtFilter="ZabavaNew",Jibek Joly (Казахстан) HD
+#EXTINF:-1 group-title="Зарубежные ZabavaNew" tvg-logo="https://i.imgur.com/2tqJO01.png" tvg-id="kazakh-tv",Jibek Joly (Казахстан) HD
 https://s91412.cdn.ngenix.net/mdrm/CH_KAZAHHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=16e67931ac1d9fa98c5e921a3107d54a}
-#EXTINF:-1 group-title="Зарубежные ZabavaNew" $ExtFilter="ZabavaNew",TV5 Monde HD
+#EXTINF:-1 group-title="Зарубежные ZabavaNew" tvg-logo="https://i.imgur.com/xsQtZPn.png" tvg-id="tv5-monde",TV5 Monde HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TV5MONDEHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=7f68f847db907c5c8b772f49ef2f1c07}
-#EXTINF:-1 group-title="Зарубежные ZabavaNew" $ExtFilter="ZabavaNew",Хабар 24 (Казахстан) HD
+#EXTINF:-1 group-title="Зарубежные ZabavaNew" tvg-logo="https://picon.ml/xabar24.png" tvg-id="xabar24",Хабар 24 (Казахстан) HD
 https://s91412.cdn.ngenix.net/mdrm/CH_HABARHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ab3175af5cb60af7394bf08c5d56cb5e}
-#EXTINF:-1 group-title="Китай ZabavaNew" $ExtFilter="ZabavaNew",CCTV 4
+#EXTINF:-1 group-title="Китай ZabavaNew" tvg-logo="https://picon.ml/cctv4.png" tvg-id="cctv4",CCTV 4
 https://s91412.cdn.ngenix.net/mdrm/CH_CCTV4/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e2b43f3e3215d70a20a00e430f645c55}
-#EXTINF:-1 group-title="Китай ZabavaNew" $ExtFilter="ZabavaNew",CGTN EU
+#EXTINF:-1 group-title="Китай ZabavaNew" tvg-logo="https://picon.ml/cgtn.png" tvg-id="cgtn",CGTN EU
 https://s91412.cdn.ngenix.net/mdrm/CH_CGTNENG/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=898e51d1d48f098d0a725b07ae7a360c}
-#EXTINF:-1 group-title="Китай ZabavaNew" $ExtFilter="ZabavaNew",CGTN RU
+#EXTINF:-1 group-title="Китай ZabavaNew" tvg-logo="https://picon.ml/cctv-ru.png" tvg-id="cctv-ru",CGTN RU
 https://s91412.cdn.ngenix.net/mdrm/CH_CGTNRUS/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f9d8138289a656e048f2ac5bfbe14c87}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",Babes TV
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://picon.ml/babes-tv.png" tvg-id="babes-tv",Babes TV
 https://s91412.cdn.ngenix.net/mdrm/CH_BABESTVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=cf0d83c2d51177da9125efd5848f856d}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",Barely Legal TV
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://picon.ml/barely-legal.png" tvg-id="barely-legal",Barely Legal TV
 https://s91412.cdn.ngenix.net/mdrm/CH_BARELYLEGAL/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=447e1e96e4d233bff4007de325b91e1a}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",Blue Hustler
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://picon.ml/blue-hustler.png" tvg-id="blue-hustler",Blue Hustler
 https://s91412.cdn.ngenix.net/mdrm/CH_BLUEHUSTLER/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=de37a6c6488b82b02e3eafc70fed819d}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",Brazzers TV Europe
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://picon.ml/brazzers.png" tvg-id="brazzers-tv-europe",Brazzers TV Europe
 https://s91412.cdn.ngenix.net/mdrm/CH_BRAZZERSTV/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f4cbcfc8b4bc503a4d401bd75be6b976}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",Erox HD
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://picon.ml/erox.png" tvg-id="erox",Erox HD
 https://s91412.cdn.ngenix.net/mdrm/CH_EROXHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=6dc0b29a01a48d18b1be74a84b172793}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",Exxxotica HD
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://picon.ml/exxxotica.png" tvg-id="exxxotica",Exxxotica HD
 https://s91412.cdn.ngenix.net/mdrm/CH_EXXXOTICAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=907e0671989b093d97d36cc404b80d78}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",French Lover
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://picon.ml/french-lover.png" tvg-id="french-lover",French Lover
 https://s91412.cdn.ngenix.net/mdrm/CH_FRENCHLOVER/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=44a9b1128e2fe7a16f81b56d6df70889}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",O-la-la HD
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://picon.ml/olala.png" tvg-id="o-la-la",O-la-la HD
 https://s91412.cdn.ngenix.net/mdrm/CH_OLALAHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=92cf6441890646dd268fe58b1e45fe8a}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",Playboy TV HD
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://picon.ml/playboy-tv.png" tvg-id="playboy-tv",Playboy TV HD
 https://s91412.cdn.ngenix.net/mdrm/CH_PLAYBOYHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=de92dc51a7e0b36227e7ad56bfc45b3a}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",Red Lips HD
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://i.imgur.com/JwDvp6d.png" tvg-id="redlips",Red Lips HD
 https://s91412.cdn.ngenix.net/mdrm/CH_REDLIPSHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a276b18a7585d4601e61238b035ee149}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",Русская ночь
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://picon.ml/russkaya-noch.png" tvg-id="russkaya-noch",Русская ночь
 https://s91412.cdn.ngenix.net/mdrm/CH_RUSSIANNIGHT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d072b7f7577ea04a16b3c8e66694c358}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",Шалун HD
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://picon.ml/shalun.png" tvg-id="shalun",Шалун HD
 https://s91412.cdn.ngenix.net/mdrm/CH_SHALUNTVHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=eb6c99fb06849b016085af3d62f3903f}
-#EXTINF:-1 group-title="18+ ZabavaNew" $ExtFilter="ZabavaNew",Шёлк HD
+#EXTINF:-1 group-title="18+ ZabavaNew" tvg-logo="https://i.imgur.com/HMwviHB.png" tvg-id="sholk",Шёлк HD
 https://s91412.cdn.ngenix.net/mdrm/CH_SHELKHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=eeff6cead4af54d0d4b46aaa576c6b5f}
-#EXTINF:-1 group-title="Радио ZabavaNew" $ExtFilter="ZabavaNew",Comedy Radio
+#EXTINF:-1 group-title="Радио ZabavaNew" tvg-logo="https://picon.ml/comedy-radio.png" tvg-id="comedy-radio",Comedy Radio
 https://s91412.cdn.ngenix.net/mdrm/CH_RADIOCOMEDY/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=af8bd64b47ad636b9a7cc7499a924117}
-#EXTINF:-1 group-title="Радио ZabavaNew" $ExtFilter="ZabavaNew",Relax FM
+#EXTINF:-1 group-title="Радио ZabavaNew" tvg-logo="https://i.imgur.com/AbXpS8r.png" tvg-id="no_epg",Relax FM
 https://s91412.cdn.ngenix.net/mdrm/CH_RADIORELAXFM/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d0b92a0ad2e59bd076f9f3d924470610}
-#EXTINF:-1 group-title="Радио ZabavaNew" $ExtFilter="ZabavaNew",Авторадио
+#EXTINF:-1 group-title="Радио ZabavaNew" tvg-logo="https://picon.ml/avtoradio.png" tvg-id="avtoradio",Авторадио
 https://s91412.cdn.ngenix.net/mdrm/CH_RADIOAUTORADIO/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9b59938c3a56c58bbffa8a9ac3721d8e}
-#EXTINF:-1 group-title="Радио ZabavaNew" $ExtFilter="ZabavaNew",Детское радио
+#EXTINF:-1 group-title="Радио ZabavaNew" tvg-logo="https://i.imgur.com/9BtIyVI.png" tvg-id="no_epg",Детское радио
 https://s91412.cdn.ngenix.net/mdrm/CH_RADIODETSKOE/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d6d3074b35e5778d1211c5b1c82d0c74}
-#EXTINF:-1 group-title="Радио ZabavaNew" $ExtFilter="ZabavaNew",Радио Energy
+#EXTINF:-1 group-title="Радио ZabavaNew" tvg-logo="https://picon.ml/radio-energy.png" tvg-id="radio-energy",Радио Energy
 https://s91412.cdn.ngenix.net/mdrm/CH_RADIOENERGY/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9b6f4997f0a75a23fdbf58eb301d16e3}
-#EXTINF:-1 group-title="Радио ZabavaNew" $ExtFilter="ZabavaNew",Радио Романтика
+#EXTINF:-1 group-title="Радио ZabavaNew" tvg-logo="https://picon.ml/radio-romantika.png" tvg-id="radio-romantika",Радио Романтика
 https://s91412.cdn.ngenix.net/mdrm/CH_RADIOROMANTIKA/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a4b4543522edafb0f08c6ad02c31daa1}
-#EXTINF:-1 group-title="Радио ZabavaNew" $ExtFilter="ZabavaNew",Юмор FM
+#EXTINF:-1 group-title="Радио ZabavaNew" tvg-logo="https://picon.ml/yumor-fm.png" tvg-id="yumor-fm",Юмор FM
 https://s91412.cdn.ngenix.net/mdrm/CH_RADIOYUMORFM/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9767582600bf0cb65c7306b797768564}
-#EXTINF:-1 group-title="Спорт ZabavaNew" $ExtFilter="ZabavaNew",Trace Sport Stars HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://picon.ml/trace-sport-stars.png" tvg-id="trace-sport-stars",Trace Sport Stars HD
 https://s91412.cdn.ngenix.net/mdrm/CH_TRACESPORTSTARSHD/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d185126f28bba00163cd38022c77d6c8}
