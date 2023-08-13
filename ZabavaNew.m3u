@@ -26,7 +26,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8
 #EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/pervyj.png" tvg-id="pervy",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/pervyj.png" tvg-id="pervy",Первый канал HD
-https://s25617.cdn.ngenix.net/mdrm/CH_1TVHD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=31854d9262f250fc0c265b5858052d3f}
+https://s91412.cdn.ngenix.net/mdrm/CH_1TVHD_OTT/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=31854d9262f250fc0c265b5858052d3f}
 #EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://picon.ml/5kanal-ru.png" tvg-id="5kanal-ru",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="Общие ZabavaNew" tvg-logo="https://i.imgur.com/FVmFJSu.png" tvg-id="rentv",РЕН ТВ
